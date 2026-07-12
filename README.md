@@ -5,7 +5,7 @@ Jekyll (no extra gems, no build step needed) — ready for GitHub Pages.
 
 ## Before you deploy
 
-1. **Add your real photo.** Replace `assets/img/avatar.svg` with a real image
+1. **Add your real photo.** Replace `assets/img/avatar.png` with a real image
    (e.g. `avatar.jpg`), then update the `src` in `_includes/sidebar.html`.
 2. **Add your resume PDF.** Drop your resume into `assets/cv/` and name it
    `FMS_Samarth_Gupta_Resume.pdf` (or update the filename referenced in
@@ -64,7 +64,7 @@ _layouts/default.html   → page wrapper (head, sidebar, footer)
 _includes/sidebar.html  → shared header, socials, resume button, nav
 assets/css/style.css    → all styling (design tokens at the top)
 assets/js/timeline.js   → draws the wavy connector line on Education/Experience
-assets/img/             → avatar + favicon (swap avatar.svg for a real photo)
+assets/img/             → avatar + favicon (swap avatar.png for a real photo)
 assets/cv/               → drop your resume PDF here
 index.md             → About (home page)
 education.md          → Degrees, timeline layout
@@ -88,10 +88,10 @@ keeps things clean and safe by default. If you'd rather use the real logos:
 
 ## Adding your real photo
 
-Replace `assets/img/avatar.svg` with a real image file (e.g. `avatar.jpg`),
+Replace `assets/img/avatar.png` with a real image file (e.g. `avatar.jpg`),
 then in `_includes/sidebar.html` change:
 ```html
-<img src="{{ '/assets/img/avatar.svg' | relative_url }}" ...>
+<img src="{{ '/assets/img/avatar.png' | relative_url }}" ...>
 ```
 to point at your new filename.
 

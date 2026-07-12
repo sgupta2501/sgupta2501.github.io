@@ -10,9 +10,11 @@
   --bg: #FFFFFF;
   --bg-alt: #F3F4FE;        /* blue/purple-tinted section wash */
   --border: #E1E4F9;
-  --sidebar-bg: #171A3A;    /* deep indigo sidebar */
+  --sidebar-bg: #0A3A6E;         /* fallback flat color */
+  --sidebar-bg-start: #003164;   /* deep blue, sampled from reference photo */
+  --sidebar-bg-end: #025561;     /* deep teal, sampled from reference photo, darkened for contrast */
   --sidebar-fg: #EEF0FF;
-  --sidebar-muted: #A9AEE0;
+  --sidebar-muted: #C3CBF0;
 
   --font-display: 'Archivo Black', 'Source Serif 4', Georgia, serif;
   --font-serif: 'Source Serif 4', Georgia, serif;
@@ -20,7 +22,7 @@
   --font-mono: 'IBM Plex Mono', 'SFMono-Regular', Consolas, monospace;
 
   --sidebar-width: 284px;
-  --content-max: 780px;
+  --content-max: 1100px;
 }
 
 * { box-sizing: border-box; }
@@ -65,6 +67,7 @@ h1, h2, h3, h4 {
   width: var(--sidebar-width);
   flex-shrink: 0;
   background: var(--sidebar-bg);
+  background: linear-gradient(160deg, var(--sidebar-bg-start) 0%, var(--sidebar-bg-end) 100%);
   padding: 2.5rem 1.6rem;
   display: flex;
   flex-direction: column;
@@ -205,7 +208,7 @@ h1, h2, h3, h4 {
 
 /* Education / Experience get extra width so the horizontal timeline wave
    has room to breathe before it needs to scroll. */
-.content-inner--wide { max-width: 1320px; }
+.content-inner--wide { max-width: 1600px; }
 
 .page-footer {
   max-width: var(--content-max);
@@ -335,9 +338,10 @@ h1, h2, h3, h4 {
   margin-bottom: 0.15rem;
 }
 .entry-title { font-family: var(--font-serif); font-size: 1.15rem; font-weight: 600; color: var(--ink); }
-.entry-icon { color: var(--accent); vertical-align: -2px; margin-right: 0.35rem; flex-shrink: 0; }
+.entry-icon { width: 20px; height: 20px; color: var(--accent); vertical-align: -4px; margin-right: 0.4rem; flex-shrink: 0; }
 .entry-org { color: var(--muted); font-size: 0.95rem; }
 .entry-date { font-family: var(--font-mono); font-size: 0.78rem; color: var(--muted); white-space: nowrap; }
+.entry > p, .entry ul { max-width: 72ch; }
 
 .tag-row { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0.75rem 0 0; }
 .tag {
@@ -377,10 +381,10 @@ h1, h2, h3, h4 {
 }
 
 .org-badge.badge-sm {
-  width: 36px;
-  height: 36px;
-  border-radius: 9px;
-  font-size: 0.58rem;
+  width: 52px;
+  height: 52px;
+  border-radius: 12px;
+  font-size: 0.68rem;
 }
 
 .entry-header-with-badge {
@@ -459,8 +463,6 @@ h1, h2, h3, h4 {
   align-items: center;
   gap: 0.5rem;
 }
-.timeline-item.is-up .timeline-node { margin-top: 1.3rem; }
-.timeline-item.is-down .timeline-node { margin-bottom: 1.3rem; }
 
 /* thin stem connecting the card to its dot */
 .timeline-item.is-up .timeline-node::before,
@@ -665,6 +667,29 @@ h1, h2, h3, h4 {
 /* ============================================
    Responsive
    ============================================ */
+/* Desktop (generous width): cards flex to fill the row exactly, so the
+   timeline never needs to scroll. Narrower windows (tablet) fall back to
+   the fixed-width scrollable track defined above; mobile stacks vertically
+   (see the max-width: 860px block below). */
+@media (min-width: 1400px) {
+  .timeline-wrap {
+    overflow-x: visible;
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
+  .timeline-track {
+    width: 100%;
+    min-width: 0;
+    gap: 2rem;
+    padding: 3.5rem 1.5rem;
+  }
+  .timeline-item {
+    flex: 1 1 0;
+    width: auto;
+    min-width: 0;
+  }
+}
+
 @media (max-width: 860px) {
   .layout { flex-direction: column; }
 
