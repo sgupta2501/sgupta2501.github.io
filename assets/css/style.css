@@ -528,8 +528,8 @@ h1, h2, h3, h4 {
 }
 .timeline-track.flat .timeline-dot::before { right: 100%; }
 .timeline-track.flat .timeline-dot::after { left: 100%; }
-.timeline-track.flat .timeline-item:first-child .timeline-dot::before { display: none; }
-.timeline-track.flat .timeline-item:last-child .timeline-dot::after { display: none; }
+.timeline-track.flat .timeline-item:first-of-type .timeline-dot::before { display: none; }
+.timeline-track.flat .timeline-item:last-of-type .timeline-dot::after { display: none; }
 .timeline-track.flat .timeline-dot { width: 16px; height: 16px; }
 
 .timeline-node {
@@ -571,6 +571,8 @@ h1, h2, h3, h4 {
 
 /* Compact wave card: logo + title + org only */
 .timeline-card {
+  position: relative;
+  isolation: isolate;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -585,11 +587,25 @@ h1, h2, h3, h4 {
   min-height: 176px;
 }
 
+/* Square (non-rounded) opaque backing, exactly the size of the card,
+   sitting behind the card's own rounded background but in front of the
+   wave line. Rounded corners never actually paint the box's own corner
+   triangles, so without this, the line could show through right at a
+   card's corner even though z-index says "line behind card" — this
+   closes that gap by fully covering the card's rectangular footprint. */
+.timeline-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--bg-alt);
+  z-index: -1;
+}
+
 .timeline-card .org-badge {
-  width: 60px;
-  height: 60px;
-  border-radius: 14px;
-  font-size: 0.82rem;
+  width: 44px;
+  height: 44px;
+  border-radius: 11px;
+  font-size: 0.68rem;
 }
 
 .timeline-card .entry-title {

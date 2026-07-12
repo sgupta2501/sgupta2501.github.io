@@ -5,8 +5,8 @@
 // display text in the timeline/detail list.
 (function () {
   var roles = [
-    { start: '2021-05-01', end: '2021-08-31' },   // ICGEB
-    { start: '2022-05-01', end: '2022-07-31' },   // Dell Technologies
+    { start: '2021-05-01', end: '2021-08-31', months: 2 },   // ICGEB — corrected: actually June–Aug, ~2mo
+    { start: '2022-05-01', end: '2022-07-31', months: 2 },   // Dell Technologies — corrected: actually ~2mo
     { start: '2023-01-01', end: '2023-06-30' },   // Bain Capability Network
     { start: '2024-04-01', end: '2024-05-31' },   // Hindustan Unilever
     { start: '2025-05-01', end: null }            // Hero Fincorp — null end = present
@@ -23,6 +23,7 @@
 
     var today = new Date();
     var totalMonths = roles.reduce(function (sum, role) {
+      if (typeof role.months === 'number') return sum + role.months;
       var start = new Date(role.start);
       var end = role.end ? new Date(role.end) : today;
       return sum + monthsBetween(start, end);
