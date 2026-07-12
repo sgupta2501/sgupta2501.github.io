@@ -1,0 +1,4 @@
+Drop your resume PDF in this folder and name it Samarth_Gupta_Resume.pdf
+(or update the filename referenced in _includes/sidebar.html and contact.md).
+
+Delete this file once your resume is in place.

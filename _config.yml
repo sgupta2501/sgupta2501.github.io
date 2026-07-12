@@ -1,0 +1,16 @@
+title: Samarth Gupta
+description: >-
+  Product Manager at Hero Fincorp. MBA, Faculty of Management Studies, Delhi.
+  B.Tech Computer Science, Shiv Nadar Institution of Eminence.
+url: "https://sgupta2501.github.io"
+baseurl: ""
+
+# Pretty URLs: about.md -> /about/
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - README.md

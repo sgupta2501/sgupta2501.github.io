@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} · Samarth Gupta</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="icon" href="{{ '/assets/img/favicon.svg' | relative_url }}" type="image/svg+xml">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="layout">
+    {% include sidebar.html %}
+    <main class="content">
+      <div class="content-inner">
+        {{ content }}
+      </div>
+      <footer class="page-footer">
+        <p>&copy; {{ 'now' | date: '%Y' }} Samarth Gupta</p>
+      </footer>
+    </main>
+  </div>
+
+  <script>
+    const toggle = document.querySelector('.mobile-nav-toggle');
+    const sidebar = document.querySelector('.sidebar');
+    if (toggle && sidebar) {
+      toggle.addEventListener('click', () => {
+        const isOpen = sidebar.classList.toggle('open');
+        toggle.setAttribute('aria-expanded', isOpen);
+      });
+      document.querySelectorAll('.sidebar-nav a').forEach(link => {
+        link.addEventListener('click', () => {
+          sidebar.classList.remove('open');
+          toggle.setAttribute('aria-expanded', 'false');
+        });
+      });
+    }
+  </script>
+</body>
+</html>

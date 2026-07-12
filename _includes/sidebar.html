@@ -1,0 +1,45 @@
+<aside class="sidebar">
+  <div class="sidebar-top">
+    <a href="{{ '/' | relative_url }}" class="avatar-link" aria-label="Home">
+      <img src="{{ '/assets/img/avatar.svg' | relative_url }}" alt="Samarth Gupta" class="avatar">
+    </a>
+    <h1 class="sidebar-name"><a href="{{ '/' | relative_url }}">Samarth Gupta</a></h1>
+    <p class="sidebar-role">Product Manager</p>
+  </div>
+
+  <div class="sidebar-panel">
+    <nav class="sidebar-nav" aria-label="Primary">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>About</a>
+      <a href="{{ '/academics/' | relative_url }}"{% if page.url contains 'academics' %} class="active"{% endif %}>Academics</a>
+      <a href="{{ '/experience/' | relative_url }}"{% if page.url contains 'experience' %} class="active"{% endif %}>Experience</a>
+      <a href="{{ '/leadership/' | relative_url }}"{% if page.url contains 'leadership' %} class="active"{% endif %}>Leadership</a>
+      <a href="{{ '/projects/' | relative_url }}"{% if page.url contains 'projects' %} class="active"{% endif %}>Projects</a>
+      <a href="{{ '/contact/' | relative_url }}"{% if page.url contains 'contact' %} class="active"{% endif %}>Contact</a>
+    </nav>
+
+    <div class="sidebar-bottom">
+      <a class="resume-btn" href="{{ '/assets/cv/Samarth_Gupta_Resume.pdf' | relative_url }}" target="_blank" rel="noopener">
+        Resume
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17L17 7M17 7H8M17 7V16"/></svg>
+      </a>
+      <div class="social-links">
+        <a href="https://linkedin.com/in/samarth-gupta-b932031b4" target="_blank" rel="noopener" aria-label="LinkedIn">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.86 0-2.14 1.45-2.14 2.94v5.67H9.34V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.38-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.07 2.07 0 1 1 0-4.13 2.07 2.07 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45z"/></svg>
+        </a>
+        <a href="https://github.com/sgupta2501" target="_blank" rel="noopener" aria-label="GitHub">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.58 2 12.25c0 4.53 2.87 8.37 6.84 9.73.5.1.68-.22.68-.49 0-.24-.01-1.04-.01-1.89-2.78.62-3.37-1.22-3.37-1.22-.45-1.18-1.11-1.49-1.11-1.49-.91-.64.07-.63.07-.63 1 .07 1.53 1.06 1.53 1.06.89 1.56 2.34 1.11 2.91.85.09-.66.35-1.11.63-1.37-2.22-.26-4.56-1.14-4.56-5.06 0-1.12.39-2.03 1.03-2.75-.1-.26-.45-1.31.1-2.73 0 0 .84-.28 2.75 1.05a9.32 9.32 0 0 1 5 0c1.9-1.33 2.74-1.05 2.74-1.05.55 1.42.2 2.47.1 2.73.64.72 1.03 1.63 1.03 2.75 0 3.93-2.34 4.79-4.57 5.05.36.32.68.94.68 1.9 0 1.37-.01 2.47-.01 2.81 0 .27.18.6.69.49A10.26 10.26 0 0 0 22 12.25C22 6.58 17.52 2 12 2z"/></svg>
+        </a>
+        <a href="https://scholar.google.com/citations?user=5JrNL14AAAAJ&hl=en" target="_blank" rel="noopener" aria-label="Google Scholar">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L1 8.5l4 2.32V17l7 4 7-4v-6.18l2-1.16V15h1V8.5L12 2zm6.06 7.51L12 13.15 5.94 9.51 12 6.02l6.06 3.49zM17 15.99l-5 2.86-5-2.86v-3.94l5 2.9 5-2.9v3.94z"/></svg>
+        </a>
+        <a href="mailto:sgupta2501@gmail.com" aria-label="Email">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m2 7 10 6 10-6"/></svg>
+        </a>
+      </div>
+    </div>
+  </div>
+</aside>
+
+<button class="mobile-nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h18M3 6h18M3 18h18"/></svg>
+</button>
