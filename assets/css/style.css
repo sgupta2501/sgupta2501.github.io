@@ -467,7 +467,7 @@ h1, h2, h3, h4 {
   position: relative;
   display: flex;
   align-items: center;
-  gap: 5.5rem;
+  gap: 7rem;
   padding: 3.5rem 3rem;
   width: max-content;
   min-width: 100%;
@@ -501,9 +501,16 @@ h1, h2, h3, h4 {
 }
 
 /* Card above the line, dot/pill sit below it (line dips down here) */
-.timeline-item.is-up { flex-direction: column; transform: translateY(34px); }
+.timeline-item.is-up { flex-direction: column; transform: translateY(62px); }
 /* Card below the line, dot/pill sit above it (line rises here) */
-.timeline-item.is-down { flex-direction: column-reverse; transform: translateY(-34px); }
+.timeline-item.is-down { flex-direction: column-reverse; transform: translateY(-62px); }
+
+/* Individually-tuned extra clearance for specific cards that need more
+   room than the baseline (e.g. their neighbors make the curve swing
+   past them more tightly than elsewhere). Not every up/down card needs
+   the same amount — this overrides the baseline per item as needed. */
+.timeline-item.is-up.shift-lg { transform: translateY(98px); }
+.timeline-item.is-down.shift-lg { transform: translateY(-98px); }
 
 /* Flat-line mode (Education): every item is is-up, so the line is a single
    straight line instead of a wave. A smaller, tidier gap works better here
@@ -518,7 +525,7 @@ h1, h2, h3, h4 {
   content: "";
   position: absolute;
   top: 50%;
-  width: 500px;
+  width: 200px;
   height: 3px;
   transform: translateY(-50%);
   background: linear-gradient(90deg, #3D6FE0, #8B5CF6);
@@ -772,7 +779,7 @@ h1, h2, h3, h4 {
   .timeline-track {
     width: 100%;
     min-width: 0;
-    gap: 3.5rem;
+    gap: 4.5rem;
     padding: 3.5rem 1.5rem;
   }
   .timeline-item {
@@ -859,6 +866,8 @@ h1, h2, h3, h4 {
   .timeline-item,
   .timeline-item.is-up,
   .timeline-item.is-down,
+  .timeline-item.is-up.shift-lg,
+  .timeline-item.is-down.shift-lg,
   .timeline-track.flat .timeline-item.is-up {
     flex-direction: column;
     align-items: center;

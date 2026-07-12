@@ -29,7 +29,7 @@ description: Product management experience at Hero Fincorp, plus internships at 
     <path/>
   </svg>
 
-  <div class="timeline-item is-up">
+  <div class="timeline-item is-up shift-lg">
     <div class="timeline-card">
       <img src="{{ '/assets/img/logos/icgeb.png' | relative_url }}" class="org-badge badge-img" alt="ICGEB logo">
       <span class="entry-title">Summer Intern</span>
@@ -53,7 +53,7 @@ description: Product management experience at Hero Fincorp, plus internships at 
     </div>
   </div>
 
-  <div class="timeline-item is-up">
+  <div class="timeline-item is-up shift-lg">
     <div class="timeline-card">
       <img src="{{ '/assets/img/logos/bain.png' | relative_url }}" class="org-badge badge-img" alt="Bain Capability Network logo">
       <span class="entry-title">Winter Intern</span>
