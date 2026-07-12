@@ -22,7 +22,7 @@
   --font-mono: 'IBM Plex Mono', 'SFMono-Regular', Consolas, monospace;
 
   --sidebar-width: 284px;
-  --content-max: 1100px;
+  --content-max: 1360px;
 }
 
 * { box-sizing: border-box; }
@@ -81,7 +81,8 @@ h1, h2, h3, h4 {
 .sidebar-header {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
+  text-align: center;
   gap: 0.9rem;
 }
 
@@ -141,6 +142,7 @@ h1, h2, h3, h4 {
 .social-links {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 0.6rem;
   margin-top: auto;
   padding-top: 1rem;
@@ -227,7 +229,7 @@ h1, h2, h3, h4 {
 
 /* Education / Experience get extra width so the horizontal timeline wave
    has room to breathe before it needs to scroll. */
-.content-inner--wide { max-width: 1600px; }
+.content-inner--wide { max-width: 1840px; }
 
 .page-footer {
   max-width: var(--content-max);
@@ -496,9 +498,9 @@ h1, h2, h3, h4 {
 }
 
 /* Card above the line, dot/pill sit below it (line dips down here) */
-.timeline-item.is-up { flex-direction: column; transform: translateY(26px); }
+.timeline-item.is-up { flex-direction: column; transform: translateY(52px); }
 /* Card below the line, dot/pill sit above it (line rises here) */
-.timeline-item.is-down { flex-direction: column-reverse; transform: translateY(-26px); }
+.timeline-item.is-down { flex-direction: column-reverse; transform: translateY(-52px); }
 
 .timeline-node {
   display: flex;
@@ -542,6 +544,7 @@ h1, h2, h3, h4 {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   text-align: center;
   gap: 0.65rem;
   background: var(--bg-alt);
@@ -549,6 +552,7 @@ h1, h2, h3, h4 {
   border-radius: 16px;
   padding: 1.4rem 1.2rem;
   width: 100%;
+  min-height: 176px;
 }
 
 .timeline-card .org-badge {

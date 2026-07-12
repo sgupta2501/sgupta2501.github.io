@@ -33,7 +33,7 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
     </div>
   </div>
 
-  <div class="timeline-item is-down">
+  <div class="timeline-item is-up">
     <div class="timeline-card">
       <img src="{{ '/assets/img/logos/snu.png' | relative_url }}" class="org-badge badge-img" alt="Shiv Nadar Institution of Eminence logo">
       <span class="entry-title">B.Tech, Computer Science &amp; Engineering</span>
