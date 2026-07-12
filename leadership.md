@@ -11,7 +11,7 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
 
 <div class="entry">
   <div class="entry-header">
-    <span class="entry-title">Class Representative, MBFS</span>
+    <div class="entry-header-with-badge"><span class="org-badge badge-sm">FMS</span><span class="entry-title">Class Representative, MBFS</span></div>
     <span class="entry-date">2024 – Present</span>
   </div>
   <p class="entry-org">FMS, Delhi</p>
@@ -23,7 +23,7 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
 
 <div class="entry">
   <div class="entry-header">
-    <span class="entry-title">Executive Member, Light Art (Design Club)</span>
+    <div class="entry-header-with-badge"><span class="org-badge badge-sm">FMS</span><span class="entry-title">Executive Member, Light Art (Design Club)</span></div>
     <span class="entry-date">2024 – 2025</span>
   </div>
   <p class="entry-org">FMS, Delhi</p>
@@ -37,7 +37,7 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
 
 <div class="entry">
   <div class="entry-header">
-    <span class="entry-title">Member, Aarohan (Music Society)</span>
+    <div class="entry-header-with-badge"><span class="org-badge badge-sm">FMS</span><span class="entry-title">Member, Aarohan (Music Society)</span></div>
     <span class="entry-date">Present</span>
   </div>
   <p class="entry-org">CulSoc, FMS Delhi</p>
@@ -50,7 +50,7 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
 
 <div class="entry">
   <div class="entry-header">
-    <span class="entry-title">Associate Member, Sports Society</span>
+    <div class="entry-header-with-badge"><span class="org-badge badge-sm">FMS</span><span class="entry-title">Associate Member, Sports Society</span></div>
     <span class="entry-date">2023 – 2024</span>
   </div>
   <p class="entry-org">FMS, Delhi</p>
@@ -64,7 +64,7 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
 
 <div class="entry">
   <div class="entry-header">
-    <span class="entry-title">Content Head, Annual Labyrinth Treasure Hunt</span>
+    <div class="entry-header-with-badge"><span class="org-badge badge-sm">SNU</span><span class="entry-title">Content Head, Annual Labyrinth Treasure Hunt</span></div>
     <span class="entry-date">2022</span>
   </div>
   <p class="entry-org">Shiv Nadar Institution of Eminence</p>
@@ -76,7 +76,7 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
 
 <div class="entry">
   <div class="entry-header">
-    <span class="entry-title">Mentor, Young Thinkers Master Class</span>
+    <div class="entry-header-with-badge"><span class="org-badge badge-sm">SNU</span><span class="entry-title">Mentor, Young Thinkers Master Class</span></div>
     <span class="entry-date">2021</span>
   </div>
   <p class="entry-org">Shiv Nadar Institution of Eminence</p>
@@ -87,7 +87,7 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
 
 <div class="entry">
   <div class="entry-header">
-    <span class="entry-title">Data Science Lead, Google Developer Student Club (GDSC)</span>
+    <div class="entry-header-with-badge"><span class="org-badge badge-sm">SNU</span><span class="entry-title">Data Science Lead, Google Developer Student Club (GDSC)</span></div>
     <span class="entry-date">2022</span>
   </div>
   <p class="entry-org">Shiv Nadar Institution of Eminence</p>

@@ -59,19 +59,41 @@ installed locally just to deploy.
 ## Structure
 
 ```
-_config.yml         → site title, description, permalink settings
-_layouts/default.html → page wrapper (head, sidebar, footer)
-_includes/sidebar.html → shared nav, photo, socials, resume button
-assets/css/style.css   → all styling (design tokens at the top)
-assets/img/            → avatar + favicon (swap avatar.svg for a real photo)
-assets/cv/              → drop your resume PDF here
-index.md            → About (home page)
-academics.md         → Research + degrees
-experience.md        → Work history
-leadership.md        → Positions of responsibility
-projects.md          → Projects
-contact.md           → Contact info
+_config.yml            → site title, description, permalink settings
+_layouts/default.html   → page wrapper (head, sidebar, footer)
+_includes/sidebar.html  → shared header, socials, resume button, nav
+assets/css/style.css    → all styling (design tokens at the top)
+assets/js/timeline.js   → draws the wavy connector line on Education/Experience
+assets/img/             → avatar + favicon (swap avatar.svg for a real photo)
+assets/cv/               → drop your resume PDF here
+index.md             → About (home page)
+education.md          → Degrees, timeline layout
+research.md           → Publications + dissertation (separate from Education)
+experience.md         → Work history, timeline layout
+leadership.md         → Positions of responsibility
+projects.md           → Projects
+contact.md            → Contact info
 ```
+
+## Institution/company badges
+
+The small colored "FMS" / "SNU" / "HUL" etc. squares next to each entry are
+plain CSS monogram badges, not real logos — pulling actual company/university
+logos raises trademark/licensing questions I can't resolve for you, so this
+keeps things clean and safe by default. If you'd rather use the real logos:
+1. Save each logo image into `assets/img/logos/` (e.g. `fms.png`, `snu.png`).
+2. In `education.md` / `experience.md` / `leadership.md`, replace e.g.
+   `<span class="org-badge">FMS</span>` with
+   `<img src="{{ '/assets/img/logos/fms.png' | relative_url }}" class="org-badge" alt="FMS">`.
+
+## Adding your real photo
+
+Replace `assets/img/avatar.svg` with a real image file (e.g. `avatar.jpg`),
+then in `_includes/sidebar.html` change:
+```html
+<img src="{{ '/assets/img/avatar.svg' | relative_url }}" ...>
+```
+to point at your new filename.
 
 ## Editing content
 

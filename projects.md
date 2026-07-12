@@ -73,11 +73,3 @@ description: Academic, consulting, and personal projects spanning product, data,
   <p>Three small game-AI builds: a Checkers game with a Python GUI and backend playing against a Min-max agent, a 3D Tic-Tac-Toe game in C with simulated AI rules, and a single-player Hangman game in Python.</p>
 </div>
 
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">Watch Effect</span>
-    <span class="entry-date">2022</span>
-  </div>
-  <p class="entry-org">Personal initiative</p>
-  <p>A small time-management initiative built to help peers set and track personal goals more consistently.</p>
-</div>

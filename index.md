@@ -6,7 +6,8 @@ description: Product Manager at Hero Fincorp. MBA, FMS Delhi. B.Tech CS, Shiv Na
 ---
 
 <p class="eyebrow">Product · Data · Research</p>
-<h1>Samarth Gupta</h1>
+<p class="hero-name"><span class="fg">Samarth</span> <span class="lg">Gupta</span></p>
+<p class="hero-role">Product Manager · FMS Delhi</p>
 <p class="lede">Product Manager building lending and AI products at Hero Fincorp — with a growing research practice on the side, aimed at a PhD down the line.</p>
 
 I'm currently a Product Manager at **Hero Fincorp** in New Delhi, where my work spans three things: rebuilding acquisition funnels with experimentation, owning 0→1 initiatives like a D2C lending app and a new secured-lending line, and shipping AI-driven automation for customer service and recruitment. Before this, I picked up an MBA at the **Faculty of Management Studies, Delhi**, and a B.Tech in Computer Science from **Shiv Nadar Institution of Eminence**.
