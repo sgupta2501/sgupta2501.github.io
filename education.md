@@ -11,15 +11,6 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
 
 <div class="timeline-wrap">
  <div class="timeline-track flat">
-  <svg class="timeline-svg" preserveAspectRatio="none">
-    <defs>
-      <linearGradient id="timeline-gradient" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#3D6FE0"/>
-        <stop offset="100%" stop-color="#8B5CF6"/>
-      </linearGradient>
-    </defs>
-    <path/>
-  </svg>
 
   <div class="timeline-item is-up">
     <div class="timeline-card">

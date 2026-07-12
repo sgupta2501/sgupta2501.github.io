@@ -511,7 +511,6 @@ h1, h2, h3, h4 {
    with plain CSS (not the JS/SVG wave path) — each dot sprouts a line
    toward its neighbors, so there's no coordinate math that can go wrong. */
 .timeline-track.flat .timeline-item.is-up { transform: translateY(22px); }
-.timeline-track.flat .timeline-svg { display: none; }
 
 .timeline-track.flat .timeline-dot { position: relative; z-index: 1; }
 .timeline-track.flat .timeline-dot::before,
@@ -528,8 +527,8 @@ h1, h2, h3, h4 {
 }
 .timeline-track.flat .timeline-dot::before { right: 100%; }
 .timeline-track.flat .timeline-dot::after { left: 100%; }
-.timeline-track.flat .timeline-item:first-of-type .timeline-dot::before { display: none; }
-.timeline-track.flat .timeline-item:last-of-type .timeline-dot::after { display: none; }
+.timeline-track.flat .timeline-item:first-child .timeline-dot::before { display: none; }
+.timeline-track.flat .timeline-item:last-child .timeline-dot::after { display: none; }
 .timeline-track.flat .timeline-dot { width: 16px; height: 16px; }
 
 .timeline-node {
@@ -596,7 +595,7 @@ h1, h2, h3, h4 {
 .timeline-card::before {
   content: "";
   position: absolute;
-  inset: 0;
+  inset: -3px;
   background: var(--bg-alt);
   z-index: -1;
 }
