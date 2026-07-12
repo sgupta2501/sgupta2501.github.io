@@ -114,7 +114,6 @@ h1, h2, h3, h4 {
 .sidebar-icons {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   gap: 0.75rem;
 }
 
@@ -133,16 +132,33 @@ h1, h2, h3, h4 {
 }
 .resume-btn:hover { background: var(--accent-light); color: #0E3B3A; }
 
-.social-links { display: flex; gap: 0.85rem; }
-.social-links a { color: var(--sidebar-muted); display: inline-flex; }
-.social-links a:hover { color: var(--accent-light); }
-.social-links svg { width: 22px; height: 22px; }
+/* Social icons: pinned to the bottom of the sidebar as round tappable targets */
+.social-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: auto;
+  padding-top: 1rem;
+}
+.social-links a {
+  color: var(--sidebar-fg);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.08);
+  transition: background 0.15s ease, color 0.15s ease;
+}
+.social-links a:hover { color: #0E3B3A; background: var(--accent-light); }
+.social-links svg { width: 16px; height: 16px; }
 
 .sidebar-nav {
   display: flex;
   flex-direction: column;
   gap: 0.3rem;
-  flex: 1;
 }
 
 .sidebar-nav a {
@@ -185,6 +201,10 @@ h1, h2, h3, h4 {
   padding: 4.5rem 2.5rem 3rem;
   flex: 1;
 }
+
+/* Education / Experience get extra width so the horizontal timeline wave
+   has room to breathe before it needs to scroll. */
+.content-inner--wide { max-width: 1160px; }
 
 .page-footer {
   max-width: var(--content-max);
@@ -346,10 +366,30 @@ h1, h2, h3, h4 {
 
 /* ============================================
    Timeline (Education / Experience)
+   Desktop: a horizontal wave — cards alternate above/below a curved
+   connector line that is drawn through the actual dot positions by
+   timeline.js, so it always matches however many entries a page has.
+   Mobile: collapses to a simple stacked list (see responsive block).
    ============================================ */
 .timeline-wrap {
-  position: relative;
   margin-top: 1rem;
+  overflow-x: auto;
+  overflow-y: visible;
+  scrollbar-width: thin;
+  scrollbar-color: var(--border) transparent;
+}
+
+/* Inner track sizes itself to fit all items (width: max-content) so the
+   wave SVG, which is measured/drawn against this box, always spans the
+   full timeline rather than just the visible scroll viewport. */
+.timeline-track {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+  padding: 3.5rem 1.5rem 3.5rem;
+  width: max-content;
+  min-width: 100%;
 }
 
 .timeline-svg {
@@ -370,24 +410,34 @@ h1, h2, h3, h4 {
 
 .timeline-item {
   position: relative;
-  display: grid;
-  grid-template-columns: 1fr 56px 1fr;
-  align-items: start;
-  gap: 0 1.25rem;
-  margin-bottom: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 0 0 260px;
+  width: 260px;
 }
 
-.timeline-item.is-left .timeline-card { grid-column: 1; text-align: right; }
-.timeline-item.is-left .timeline-node { grid-column: 2; }
-.timeline-item.is-right .timeline-card { grid-column: 3; text-align: left; }
-.timeline-item.is-right .timeline-node { grid-column: 2; }
+/* Card above the line, dot/pill sit below it (line dips down here) */
+.timeline-item.is-up { flex-direction: column; }
+/* Card below the line, dot/pill sit above it (line rises here) */
+.timeline-item.is-down { flex-direction: column-reverse; }
 
 .timeline-node {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 0.5rem;
-  padding-top: 0.35rem;
+}
+.timeline-item.is-up .timeline-node { margin-top: 0.9rem; }
+.timeline-item.is-down .timeline-node { margin-bottom: 0.9rem; }
+
+/* thin stem connecting the card to its dot */
+.timeline-item.is-up .timeline-node::before,
+.timeline-item.is-down .timeline-node::after {
+  content: "";
+  width: 2px;
+  height: 16px;
+  background: var(--border);
 }
 
 .timeline-dot {
@@ -397,6 +447,7 @@ h1, h2, h3, h4 {
   background: var(--bg);
   border: 3px solid var(--accent);
   z-index: 1;
+  flex-shrink: 0;
 }
 
 .timeline-pill {
@@ -414,9 +465,9 @@ h1, h2, h3, h4 {
   border: 1px solid var(--border);
   border-radius: 12px;
   padding: 1.25rem 1.4rem;
+  text-align: left;
+  width: 100%;
 }
-.timeline-item.is-left .timeline-card { margin-right: 0; }
-.timeline-item.is-right .timeline-card { margin-left: 0; }
 
 .timeline-card-header {
   display: flex;
@@ -425,13 +476,18 @@ h1, h2, h3, h4 {
   gap: 0.75rem;
   margin-bottom: 0.5rem;
 }
-.timeline-item.is-left .timeline-card-header { flex-direction: row-reverse; }
 
 .timeline-card .entry-title { font-size: 1.05rem; }
 .timeline-card .entry-org { display: block; font-size: 0.88rem; margin-bottom: 0.6rem; }
 .timeline-card ul { padding-left: 1.1rem; text-align: left; }
-.timeline-item.is-left .timeline-card ul { padding-left: 0; padding-right: 1.1rem; }
 .timeline-card li { font-size: 0.92rem; margin-bottom: 0.4rem; }
+
+/* Org / institution logo inside the card header */
+.org-badge.badge-img {
+  background: #fff;
+  object-fit: contain;
+  padding: 4px;
+}
 
 /* ============================================
    Responsive
@@ -468,7 +524,6 @@ h1, h2, h3, h4 {
 
   .sidebar-icons { order: 2; }
   .resume-btn { padding: 0.4rem 0.7rem; font-size: 0.78rem; }
-  .social-links svg { width: 20px; height: 20px; }
 
   .sidebar-nav {
     order: 3;
@@ -481,22 +536,53 @@ h1, h2, h3, h4 {
   .sidebar.open .sidebar-nav { display: flex; }
   .sidebar-nav a.active::before { display: none; }
 
+  /* Social row collapses with the nav on mobile so nothing overflows the header */
+  .social-links {
+    order: 4;
+    display: none;
+    margin-top: 0;
+    padding-top: 0.5rem;
+    justify-content: center;
+  }
+  .sidebar.open .social-links { display: flex; }
+
   .content-inner { padding: 2.5rem 1.5rem 2rem; }
   .content-inner h1 { font-size: 2rem; }
   .hero-name { font-size: 2.4rem; }
 
-  /* Timeline collapses to single column, dot rail on the left */
-  .timeline-item {
-    grid-template-columns: 34px 1fr;
-    gap: 0 0.9rem;
+  /* Timeline collapses to a simple stacked list: date pill, then card,
+     repeated in order. No wave line or dots on small screens. */
+  .timeline-wrap { overflow-x: visible; }
+  .timeline-track {
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+    min-width: 0;
+    gap: 2rem;
+    padding: 0.5rem 0 0;
   }
-  .timeline-item.is-left .timeline-card,
-  .timeline-item.is-right .timeline-card {
-    grid-column: 2;
-    text-align: left;
+  .timeline-svg { display: none; }
+
+  .timeline-item,
+  .timeline-item.is-up,
+  .timeline-item.is-down {
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    flex: none;
   }
-  .timeline-item.is-left .timeline-card ul { padding-left: 1.1rem; padding-right: 0; }
-  .timeline-item.is-left .timeline-card-header { flex-direction: row; }
-  .timeline-item .timeline-node { grid-column: 1; }
-  .timeline-pill { font-size: 0.62rem; padding: 0.2rem 0.45rem; }
+
+  .timeline-node {
+    order: 1;
+    margin: 0 0 0.9rem !important;
+  }
+  .timeline-card { order: 2; }
+
+  .timeline-dot,
+  .timeline-item.is-up .timeline-node::before,
+  .timeline-item.is-down .timeline-node::after {
+    display: none;
+  }
+
+  .timeline-pill { font-size: 0.68rem; padding: 0.25rem 0.6rem; }
 }

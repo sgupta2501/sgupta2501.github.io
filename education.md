@@ -10,9 +10,10 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
 <p class="lede">Two degrees, one very long stretch of Dean's Lists and case competitions in between.</p>
 
 <div class="timeline-wrap">
+ <div class="timeline-track">
   <svg class="timeline-svg" preserveAspectRatio="none">
     <defs>
-      <linearGradient id="timeline-gradient" x1="0" y1="0" x2="0" y2="1">
+      <linearGradient id="timeline-gradient" x1="0" y1="0" x2="1" y2="0">
         <stop offset="0%" stop-color="#0FA3A0"/>
         <stop offset="100%" stop-color="#6C63E8"/>
       </linearGradient>
@@ -20,14 +21,17 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
     <path/>
   </svg>
 
-  <div class="timeline-item is-left">
+  <div class="timeline-item is-up">
     <div class="timeline-card">
       <div class="timeline-card-header">
         <div>
           <span class="entry-title">Master of Business Administration</span>
           <span class="entry-org">Faculty of Management Studies (FMS), University of Delhi</span>
         </div>
-        <span class="org-badge">FMS</span>
+        <img src="{{ '/assets/img/logos/fms.png' | relative_url }}" class="org-badge badge-img" alt="FMS logo">
+        <!-- Once you have a real logo: drop it in /assets/img/logos/fms.png and replace
+             the line above with:
+             <img src="{{ '/assets/img/logos/fms.png' | relative_url }}" class="org-badge badge-img" alt="FMS logo"> -->
       </div>
       <ul>
         <li>Major: Strategy &amp; Finance · Minor: Operations — **7.84**/10 CGPA, **Top 10** percentile, graduated with Distinction.</li>
@@ -42,14 +46,15 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
     </div>
   </div>
 
-  <div class="timeline-item is-right">
+  <div class="timeline-item is-down">
     <div class="timeline-card">
       <div class="timeline-card-header">
-        <span class="org-badge">SNU</span>
         <div>
           <span class="entry-title">B.Tech, Computer Science &amp; Engineering</span>
           <span class="entry-org">Shiv Nadar Institution of Eminence, Delhi NCR</span>
         </div>
+        <img src="{{ '/assets/img/logos/snu.png' | relative_url }}" class="org-badge badge-img" alt="SNU">
+        <!-- Logo path: /assets/img/logos/snu.png -->
       </div>
       <ul>
         <li>**9.13**/10 CGPA — ranked **3rd** of **105** in Computer Science, **6th** of **254** across the School of Engineering.</li>
@@ -63,14 +68,15 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
     </div>
   </div>
 
-  <div class="timeline-item is-left">
+  <div class="timeline-item is-up">
     <div class="timeline-card">
       <div class="timeline-card-header">
         <div>
           <span class="entry-title">Class XII, CBSE</span>
           <span class="entry-org">Sardar Patel Vidyalaya, New Delhi</span>
         </div>
-        <span class="org-badge">SPV</span>
+        <img src="{{ '/assets/img/logos/spv.png' | relative_url }}" class="org-badge badge-img" alt="SPV">
+        <!-- Logo path: /assets/img/logos/spv.png -->
       </div>
       <ul>
         <li>**94%** aggregate.</li>
@@ -81,4 +87,5 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
       <span class="timeline-pill">2019</span>
     </div>
   </div>
+ </div>
 </div>

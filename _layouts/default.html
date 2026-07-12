@@ -17,7 +17,7 @@
   <div class="layout">
     {% include sidebar.html %}
     <main class="content">
-      <div class="content-inner">
+      <div class="content-inner{% if page.url contains 'education' or page.url contains 'experience' %} content-inner--wide{% endif %}">
         {{ content }}
       </div>
       <footer class="page-footer">

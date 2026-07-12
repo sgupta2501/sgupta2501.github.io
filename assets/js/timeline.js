@@ -44,7 +44,7 @@
   }
 
   function drawAll() {
-    document.querySelectorAll('.timeline-wrap').forEach(drawTimeline);
+    document.querySelectorAll('.timeline-track').forEach(drawTimeline);
   }
 
   function debounce(fn, wait) {

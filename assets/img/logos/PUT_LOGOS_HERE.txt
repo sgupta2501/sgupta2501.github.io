@@ -1,0 +1,20 @@
+Drop institution/company logo images in this folder, for example:
+
+  fms.png            (education.md - FMS)
+  snu.png             (education.md - Shiv Nadar)
+  spv.png              (education.md - Sardar Patel Vidyalaya)
+  hero-fincorp.png    (experience.md - Hero Fincorp)
+  hul.png              (experience.md - HUL)
+  bain.png              (experience.md - Bain)
+  dell.png               (experience.md - Dell)
+  icgeb.png                (experience.md - ICGEB)
+
+Then in education.md / experience.md, replace the placeholder line, e.g.:
+  <span class="org-badge">FMS</span>
+with:
+  <img src="{{ '/assets/img/logos/fms.png' | relative_url }}" class="org-badge badge-img" alt="FMS logo">
+
+Tip: square logos (or logos on a transparent/white background) look best —
+the badge is a 34x34px rounded square with a small padding.
+
+Delete this file once you've added your logos.

@@ -10,9 +10,10 @@ description: Product management experience at Hero Fincorp, plus internships at 
 <p class="lede">Two years and counting of shipping products, running experiments, and reading way too many funnel dashboards.</p>
 
 <div class="timeline-wrap">
+ <div class="timeline-track">
   <svg class="timeline-svg" preserveAspectRatio="none">
     <defs>
-      <linearGradient id="timeline-gradient" x1="0" y1="0" x2="0" y2="1">
+      <linearGradient id="timeline-gradient" x1="0" y1="0" x2="1" y2="0">
         <stop offset="0%" stop-color="#0FA3A0"/>
         <stop offset="100%" stop-color="#6C63E8"/>
       </linearGradient>
@@ -20,14 +21,15 @@ description: Product management experience at Hero Fincorp, plus internships at 
     <path/>
   </svg>
 
-  <div class="timeline-item is-left">
+  <div class="timeline-item is-up">
     <div class="timeline-card">
       <div class="timeline-card-header">
         <div>
           <span class="entry-title">Product Manager</span>
           <span class="entry-org">Hero Fincorp &middot; New Delhi</span>
         </div>
-        <span class="org-badge">HF</span>
+        <img src="{{ '/assets/img/logos/hero-fincorp.png' | relative_url }}" class="org-badge badge-img" alt="Hero">
+        <!-- Logo path: /assets/img/logos/hero-fincorp.png -->
       </div>
 
       <h3 class="h3-icon">
@@ -68,14 +70,15 @@ description: Product management experience at Hero Fincorp, plus internships at 
     </div>
   </div>
 
-  <div class="timeline-item is-right">
+  <div class="timeline-item is-down">
     <div class="timeline-card">
       <div class="timeline-card-header">
-        <span class="org-badge">HUL</span>
         <div>
           <span class="entry-title">Digicommerce Intern</span>
           <span class="entry-org">Hindustan Unilever Limited</span>
         </div>
+         <img src="{{ '/assets/img/logos/hul.png' | relative_url }}" class="org-badge badge-img" alt="HUL">
+        <!-- Logo path: /assets/img/logos/hul.png -->
       </div>
       <ul>
         <li>Mapped beauty e-commerce across Purplle, Myntra, and Nykaa, uncovering a &#8377;**220** crore portfolio growth opportunity.</li>
@@ -89,14 +92,15 @@ description: Product management experience at Hero Fincorp, plus internships at 
     </div>
   </div>
 
-  <div class="timeline-item is-left">
+  <div class="timeline-item is-up">
     <div class="timeline-card">
       <div class="timeline-card-header">
         <div>
           <span class="entry-title">Winter Intern</span>
           <span class="entry-org">Bain Capability Network</span>
         </div>
-        <span class="org-badge">BAIN</span>
+         <img src="{{ '/assets/img/logos/bain.png' | relative_url }}" class="org-badge badge-img" alt="Bain">
+        <!-- Logo path: /assets/img/logos/bain.png -->
       </div>
       <ul>
         <li>Contributed to a &#8377;**500+** crore portfolio across **13** strategy cases, mining insights across Asia-Pacific.</li>
@@ -111,14 +115,15 @@ description: Product management experience at Hero Fincorp, plus internships at 
     </div>
   </div>
 
-  <div class="timeline-item is-right">
+  <div class="timeline-item is-down">
     <div class="timeline-card">
       <div class="timeline-card-header">
-        <span class="org-badge">DELL</span>
         <div>
           <span class="entry-title">Undergraduate Intern</span>
           <span class="entry-org">Dell Technologies</span>
         </div>
+        <span class="org-badge">DELL</span>
+        <!-- Logo path: /assets/img/logos/dell.png -->
       </div>
       <ul>
         <li>Built a centralized database-monitoring dashboard covering **100,000+** servers across **4** data sources.</li>
@@ -132,14 +137,15 @@ description: Product management experience at Hero Fincorp, plus internships at 
     </div>
   </div>
 
-  <div class="timeline-item is-left">
+  <div class="timeline-item is-up">
     <div class="timeline-card">
       <div class="timeline-card-header">
         <div>
           <span class="entry-title">Summer Intern</span>
           <span class="entry-org">ICGEB</span>
         </div>
-        <span class="org-badge">ICGEB</span>
+         <img src="{{ '/assets/img/logos/icgeb.png' | relative_url }}" class="org-badge badge-img" alt="ICGEB">
+        <!-- Logo path: /assets/img/logos/icgeb.png -->
       </div>
       <ul>
         <li>Built a computer-vision object-detection framework to identify malaria parasites in blood smears, with AIIMS Delhi.</li>
@@ -151,4 +157,5 @@ description: Product management experience at Hero Fincorp, plus internships at 
       <span class="timeline-pill">May &ndash; Aug 2021</span>
     </div>
   </div>
+ </div>
 </div>
