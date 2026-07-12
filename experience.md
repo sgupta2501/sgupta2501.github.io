@@ -15,7 +15,7 @@ description: Product management experience at Hero Fincorp, plus internships at 
 </div>
 <p class="lede">Two years and counting of shipping products, running experiments, and reading way too many funnel dashboards.</p>
 
-<script src="{{ '/assets/js/experience-duration.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/experience-duration.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
 
 <div class="timeline-wrap">
  <div class="timeline-track">

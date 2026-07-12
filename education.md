@@ -10,7 +10,7 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
 <p class="lede">Two degrees, one very long stretch of Dean's Lists and case competitions in between.</p>
 
 <div class="timeline-wrap">
- <div class="timeline-track">
+ <div class="timeline-track flat">
   <svg class="timeline-svg" preserveAspectRatio="none">
     <defs>
       <linearGradient id="timeline-gradient" x1="0" y1="0" x2="1" y2="0">
