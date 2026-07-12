@@ -122,16 +122,16 @@ h1, h2, h3, h4 {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
-  background: var(--accent);
+  background: linear-gradient(90deg, var(--accent), var(--accent-2));
   color: #fff;
   font-size: 0.85rem;
   font-weight: 600;
   padding: 0.5rem 0.85rem;
   border-radius: 7px;
-  transition: background 0.15s ease;
+  transition: filter 0.15s ease;
   white-space: nowrap;
 }
-.resume-btn:hover { background: var(--accent-light); color: #171A3A; }
+.resume-btn:hover { filter: brightness(1.12); }
 
 /* Social icons: pinned to the bottom of the sidebar as round tappable targets */
 .social-links {
@@ -153,7 +153,7 @@ h1, h2, h3, h4 {
   background: rgba(255,255,255,0.08);
   transition: background 0.15s ease, color 0.15s ease;
 }
-.social-links a:hover { color: #171A3A; background: var(--accent-light); }
+.social-links a:hover { color: #fff; background: linear-gradient(135deg, var(--accent), var(--accent-2)); }
 .social-links svg { width: 16px; height: 16px; }
 
 .sidebar-nav {
@@ -173,7 +173,7 @@ h1, h2, h3, h4 {
 .sidebar-nav a:hover { color: #fff; background: rgba(255,255,255,0.06); }
 .sidebar-nav a.active {
   color: #fff;
-  background: rgba(15, 163, 160, 0.35);
+  background: linear-gradient(90deg, rgba(61,111,224,0.4), rgba(139,92,246,0.4));
   font-weight: 600;
 }
 .sidebar-nav a.active::before {
@@ -184,7 +184,7 @@ h1, h2, h3, h4 {
   transform: translateY(-50%);
   width: 3px;
   height: 60%;
-  background: var(--accent-light);
+  background: linear-gradient(180deg, var(--accent), var(--accent-2));
   border-radius: 0 3px 3px 0;
 }
 
@@ -241,7 +241,12 @@ h1, h2, h3, h4 {
   text-transform: uppercase;
 }
 .hero-name .fg { color: var(--ink); }
-.hero-name .lg { color: var(--accent); }
+.hero-name .lg {
+  background: linear-gradient(90deg, var(--accent), var(--accent-2));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
 
 .hero-role {
   font-family: var(--font-mono);
@@ -262,10 +267,20 @@ h1, h2, h3, h4 {
 }
 
 .content-inner h2 {
+  position: relative;
   font-size: 1.5rem;
-  margin: 3rem 0 1.25rem;
-  padding-bottom: 0.6rem;
-  border-bottom: 1px solid var(--border);
+  margin: 3rem 0 1.5rem;
+  padding-bottom: 0.85rem;
+}
+.content-inner h2::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 64px;
+  height: 3px;
+  border-radius: 3px;
+  background: linear-gradient(90deg, var(--accent), var(--accent-2));
 }
 .content-inner h2:first-of-type { margin-top: 2rem; }
 .content-inner h3 { font-size: 1.1rem; margin: 1.75rem 0 0.25rem; }
@@ -389,6 +404,8 @@ h1, h2, h3, h4 {
   overflow-y: visible;
   scrollbar-width: thin;
   scrollbar-color: var(--border) transparent;
+  -webkit-mask-image: linear-gradient(to right, transparent 0, black 32px, black calc(100% - 32px), transparent 100%);
+  mask-image: linear-gradient(to right, transparent 0, black 32px, black calc(100% - 32px), transparent 100%);
 }
 
 /* Inner track sizes itself to fit all items (width: max-content) so the
@@ -398,8 +415,8 @@ h1, h2, h3, h4 {
   position: relative;
   display: flex;
   align-items: center;
-  gap: 3rem;
-  padding: 3rem 2rem;
+  gap: 4rem;
+  padding: 3.5rem 3rem;
   width: max-content;
   min-width: 100%;
 }
@@ -412,6 +429,7 @@ h1, h2, h3, h4 {
   height: 100%;
   pointer-events: none;
   overflow: visible;
+  z-index: 0;
 }
 .timeline-svg path {
   fill: none;
@@ -422,11 +440,12 @@ h1, h2, h3, h4 {
 
 .timeline-item {
   position: relative;
+  z-index: 1;
   display: flex;
   flex-direction: column;
   align-items: center;
-  flex: 0 0 230px;
-  width: 230px;
+  flex: 0 0 220px;
+  width: 220px;
 }
 
 /* Card above the line, dot/pill sit below it (line dips down here) */
@@ -440,24 +459,25 @@ h1, h2, h3, h4 {
   align-items: center;
   gap: 0.5rem;
 }
-.timeline-item.is-up .timeline-node { margin-top: 0.9rem; }
-.timeline-item.is-down .timeline-node { margin-bottom: 0.9rem; }
+.timeline-item.is-up .timeline-node { margin-top: 1.3rem; }
+.timeline-item.is-down .timeline-node { margin-bottom: 1.3rem; }
 
 /* thin stem connecting the card to its dot */
 .timeline-item.is-up .timeline-node::before,
 .timeline-item.is-down .timeline-node::after {
   content: "";
   width: 2px;
-  height: 16px;
+  height: 22px;
   background: var(--border);
 }
 
 .timeline-dot {
-  width: 14px;
-  height: 14px;
+  width: 15px;
+  height: 15px;
   border-radius: 50%;
-  background: var(--bg);
-  border: 3px solid var(--accent);
+  background: linear-gradient(135deg, var(--accent), var(--accent-2));
+  border: 3px solid var(--bg);
+  box-shadow: 0 0 0 2px var(--accent);
   z-index: 1;
   flex-shrink: 0;
 }
@@ -466,7 +486,7 @@ h1, h2, h3, h4 {
   font-family: var(--font-mono);
   font-size: 0.68rem;
   color: #fff;
-  background: var(--accent-2);
+  background: linear-gradient(90deg, var(--accent), var(--accent-2));
   padding: 0.25rem 0.6rem;
   border-radius: 20px;
   white-space: nowrap;
@@ -565,7 +585,7 @@ h1, h2, h3, h4 {
   border-radius: 20px;
   transition: background 0.15s ease, color 0.15s ease;
 }
-.paper-link:hover { background: var(--accent); color: #fff; }
+.paper-link:hover { background: linear-gradient(90deg, var(--accent), var(--accent-2)); color: #fff; border-color: transparent; }
 .paper-link svg { width: 13px; height: 13px; flex-shrink: 0; }
 
 /* ============================================
@@ -608,7 +628,7 @@ h1, h2, h3, h4 {
 
 .contact-cards {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 0.9rem;
   align-content: start;
 }
@@ -705,7 +725,7 @@ h1, h2, h3, h4 {
 
   /* Timeline collapses to a simple stacked list: date pill, then card,
      repeated in order. No wave line or dots on small screens. */
-  .timeline-wrap { overflow-x: visible; }
+  .timeline-wrap { overflow-x: visible; -webkit-mask-image: none; mask-image: none; }
   .timeline-track {
     flex-direction: column;
     align-items: stretch;

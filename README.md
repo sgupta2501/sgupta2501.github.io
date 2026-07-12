@@ -8,7 +8,7 @@ Jekyll (no extra gems, no build step needed) — ready for GitHub Pages.
 1. **Add your real photo.** Replace `assets/img/avatar.svg` with a real image
    (e.g. `avatar.jpg`), then update the `src` in `_includes/sidebar.html`.
 2. **Add your resume PDF.** Drop your resume into `assets/cv/` and name it
-   `Samarth_Gupta_Resume.pdf` (or update the filename referenced in
+   `FMS_Samarth_Gupta_Resume.pdf` (or update the filename referenced in
    `_includes/sidebar.html` and `contact.md`).
 3. Double check all bio/experience content across the `.md` files — everything
    was written from your resumes, but proofread names, dates, and numbers.

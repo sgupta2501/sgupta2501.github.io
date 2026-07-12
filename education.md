@@ -23,23 +23,19 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
 
   <div class="timeline-item is-up">
     <div class="timeline-card">
-      <span class="org-badge">FMS</span>
-      <!-- Once you have a real logo: drop it in /assets/img/logos/fms.png and replace
-           the line above with:
-           <img src="{{ '/assets/img/logos/fms.png' | relative_url }}" class="org-badge badge-img" alt="FMS logo"> -->
-      <span class="entry-title">Master of Business Administration</span>
-      <span class="entry-org">FMS, University of Delhi</span>
+      <img src="{{ '/assets/img/logos/spv.png' | relative_url }}" class="org-badge badge-img" alt="Sardar Patel Vidyalaya logo">
+      <span class="entry-title">Class XII, CBSE</span>
+      <span class="entry-org">Sardar Patel Vidyalaya</span>
     </div>
     <div class="timeline-node">
       <span class="timeline-dot"></span>
-      <span class="timeline-pill">Jul 2023 – Apr 2025</span>
+      <span class="timeline-pill">2019</span>
     </div>
   </div>
 
   <div class="timeline-item is-down">
     <div class="timeline-card">
-      <span class="org-badge">SNU</span>
-      <!-- Logo path: /assets/img/logos/snu.png -->
+      <img src="{{ '/assets/img/logos/snu.png' | relative_url }}" class="org-badge badge-img" alt="Shiv Nadar Institution of Eminence logo">
       <span class="entry-title">B.Tech, Computer Science &amp; Engineering</span>
       <span class="entry-org">Shiv Nadar Institution of Eminence</span>
     </div>
@@ -51,14 +47,13 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
 
   <div class="timeline-item is-up">
     <div class="timeline-card">
-      <span class="org-badge">SPV</span>
-      <!-- Logo path: /assets/img/logos/spv.png -->
-      <span class="entry-title">Class XII, CBSE</span>
-      <span class="entry-org">Sardar Patel Vidyalaya</span>
+      <img src="{{ '/assets/img/logos/fms.png' | relative_url }}" class="org-badge badge-img" alt="FMS Delhi logo">
+      <span class="entry-title">Master of Business Administration</span>
+      <span class="entry-org">FMS, University of Delhi</span>
     </div>
     <div class="timeline-node">
       <span class="timeline-dot"></span>
-      <span class="timeline-pill">2019</span>
+      <span class="timeline-pill">Jul 2023 – Apr 2025</span>
     </div>
   </div>
  </div>
@@ -69,28 +64,23 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
   <div class="entry">
     <div class="entry-header">
       <div class="entry-header-with-badge">
-        <span class="org-badge">FMS</span>
-        <!-- Logo path: /assets/img/logos/fms.png -->
+        <img src="{{ '/assets/img/logos/spv.png' | relative_url }}" class="org-badge badge-img" alt="Sardar Patel Vidyalaya logo">
         <div>
-          <span class="entry-title">Master of Business Administration</span>
-          <span class="entry-org">Faculty of Management Studies (FMS), University of Delhi</span>
+          <span class="entry-title">Class XII, CBSE</span>
+          <span class="entry-org">Sardar Patel Vidyalaya, New Delhi</span>
         </div>
       </div>
-      <span class="entry-date">Jul 2023 – Apr 2025</span>
+      <span class="entry-date">2019</span>
     </div>
     <ul>
-      <li>Major: Strategy &amp; Finance · Minor: Operations — **7.84**/10 CGPA, **Top 10** percentile, graduated with Distinction.</li>
-      <li>National Finalist (top **9** of **4,100+**), Aditya Birla Group Stratos; National Semi-Finalist, Tata Imagination Challenge (**250,000+** entries).</li>
-      <li>Band finalist at both IIM-Lucknow and IIM-Indore annual fests, against **500+** participants.</li>
-      <li>Automated document-processing and Excel-extraction workflows for a startup client, cutting turnaround time **90%**.</li>
+      <li>**94%** aggregate.</li>
     </ul>
   </div>
 
   <div class="entry">
     <div class="entry-header">
       <div class="entry-header-with-badge">
-        <span class="org-badge">SNU</span>
-        <!-- Logo path: /assets/img/logos/snu.png -->
+        <img src="{{ '/assets/img/logos/snu.png' | relative_url }}" class="org-badge badge-img" alt="Shiv Nadar Institution of Eminence logo">
         <div>
           <span class="entry-title">B.Tech, Computer Science &amp; Engineering</span>
           <span class="entry-org">Shiv Nadar Institution of Eminence, Delhi NCR</span>
@@ -108,17 +98,19 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
   <div class="entry">
     <div class="entry-header">
       <div class="entry-header-with-badge">
-        <span class="org-badge">SPV</span>
-        <!-- Logo path: /assets/img/logos/spv.png -->
+        <img src="{{ '/assets/img/logos/fms.png' | relative_url }}" class="org-badge badge-img" alt="FMS Delhi logo">
         <div>
-          <span class="entry-title">Class XII, CBSE</span>
-          <span class="entry-org">Sardar Patel Vidyalaya, New Delhi</span>
+          <span class="entry-title">Master of Business Administration</span>
+          <span class="entry-org">Faculty of Management Studies (FMS), University of Delhi</span>
         </div>
       </div>
-      <span class="entry-date">2019</span>
+      <span class="entry-date">Jul 2023 – Apr 2025</span>
     </div>
     <ul>
-      <li>**94%** aggregate.</li>
+      <li>Major: Strategy &amp; Finance · Minor: Operations — **7.84**/10 CGPA, **Top 10** percentile, graduated with Distinction.</li>
+      <li>National Finalist (top **9** of **4,100+**), Aditya Birla Group Stratos; National Semi-Finalist, Tata Imagination Challenge (**250,000+** entries).</li>
+      <li>Band finalist at both IIM-Lucknow and IIM-Indore annual fests, against **500+** participants.</li>
+      <li>Automated document-processing and Excel-extraction workflows for a startup client, cutting turnaround time **90%**.</li>
     </ul>
   </div>
 

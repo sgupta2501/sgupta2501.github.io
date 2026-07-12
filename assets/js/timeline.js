@@ -24,10 +24,10 @@
       var p2 = points[i + 1];
       var p3 = points[i + 2 < points.length ? i + 2 : i + 1];
 
-      var c1x = p1.x + (p2.x - p0.x) / 6;
-      var c1y = p1.y + (p2.y - p0.y) / 6;
-      var c2x = p2.x - (p3.x - p1.x) / 6;
-      var c2y = p2.y - (p3.y - p1.y) / 6;
+      var c1x = p1.x + (p2.x - p0.x) / 4;
+      var c1y = p1.y + (p2.y - p0.y) / 4;
+      var c2x = p2.x - (p3.x - p1.x) / 4;
+      var c2y = p2.y - (p3.y - p1.y) / 4;
 
       d += ' C ' + c1x + ' ' + c1y + ', ' + c2x + ' ' + c2y + ', ' + p2.x + ' ' + p2.y;
     }

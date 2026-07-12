@@ -69,13 +69,7 @@ description: Get in touch with Samarth Gupta - email, LinkedIn, GitHub, Google S
       <span class="contact-card-sub">sgupta2501</span>
     </a>
 
-    <a class="contact-card" href="https://scholar.google.com/citations?user=5JrNL14AAAAJ&hl=en" target="_blank" rel="noopener">
-      <span class="contact-icon"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L1 8.5l4 2.32V17l7 4 7-4v-6.18l2-1.16V15h1V8.5L12 2zm6.06 7.51L12 13.15 5.94 9.51 12 6.02l6.06 3.49zM17 15.99l-5 2.86-5-2.86v-3.94l5 2.9 5-2.9v3.94z"/></svg></span>
-      <span class="contact-card-title">Google Scholar</span>
-      <span class="contact-card-sub">Publications &amp; citations</span>
-    </a>
-
-    <a class="contact-card" href="{{ '/assets/cv/Samarth_Gupta_Resume.pdf' | relative_url }}" target="_blank" rel="noopener">
+    <a class="contact-card" href="{{ '/assets/cv/FMS_Samarth_Gupta_Resume.pdf' | relative_url }}" target="_blank" rel="noopener">
       <span class="contact-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/></svg></span>
       <span class="contact-card-title">Resume</span>
       <span class="contact-card-sub">PDF download</span>
@@ -88,18 +82,19 @@ description: Get in touch with Samarth Gupta - email, LinkedIn, GitHub, Google S
 <h2>Academic Identifiers</h2>
 <p class="lede" style="margin-bottom:1rem;">For citation tracking and research profiles.</p>
 
-<!-- Replace href="#" with your actual profile URL for each identifier below. -->
 <div class="identifier-list">
   <div class="identifier-row">
-    <span class="id-label">Scopus Author ID</span>
-    <a href="#" target="_blank" rel="noopener">Add your Scopus ID</a>
-  </div>
-  <div class="identifier-row">
     <span class="id-label">ORCID iD</span>
-    <a href="#" target="_blank" rel="noopener">Add your ORCID iD</a>
+    <a href="https://orcid.org/0009-0008-3142-0178" target="_blank" rel="noopener">0009-0008-3142-0178</a>
   </div>
+
+  <div class="identifier-row">
+    <span class="id-label">Scopus Author ID</span>
+    <a href="https://www.scopus.com/authid/detail.uri?authorId=60035562100" target="_blank" rel="noopener">60035562100</a>
+  </div>
+
   <div class="identifier-row">
     <span class="id-label">Web of Science ResearcherID</span>
-    <a href="#" target="_blank" rel="noopener">Add your Web of Science ID</a>
+    <a href="https://www.webofscience.com/wos/author/record/QQB-4356-2026" target="_blank" rel="noopener">QQB-4356-2026</a>
   </div>
 </div>
