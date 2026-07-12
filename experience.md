@@ -6,8 +6,16 @@ description: Product management experience at Hero Fincorp, plus internships at 
 ---
 
 <p class="eyebrow">Experience</p>
-<h1>Experience</h1>
+<div class="page-header-row">
+  <h1>Experience</h1>
+  <span class="duration-badge">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+    <span id="experience-duration">Calculating…</span>
+  </span>
+</div>
 <p class="lede">Two years and counting of shipping products, running experiments, and reading way too many funnel dashboards.</p>
+
+<script src="{{ '/assets/js/experience-duration.js' | relative_url }}"></script>
 
 <div class="timeline-wrap">
  <div class="timeline-track">

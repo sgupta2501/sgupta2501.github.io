@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Projects & Certifications
+title: Co-Curricular
 permalink: /projects/
 description: Academic, consulting, and personal projects, corporate case competitions, and certifications.
 ---
 
-<p class="eyebrow">Projects</p>
-<h1>Projects, Competitions &amp; Certifications</h1>
+<p class="eyebrow">Co-Curricular</p>
+<h1>Co-Curricular</h1>
 <p class="lede">A mix of consulting engagements, coursework, case competitions, and things built purely out of curiosity.</p>
 
-<h2>Projects</h2>
+<h2 id="projects">Projects</h2>
 
 <div class="entry">
   <div class="entry-header">
@@ -122,7 +122,7 @@ description: Academic, consulting, and personal projects, corporate case competi
   -->
 </div>
 
-<h2>Corporate &amp; Case Competitions</h2>
+<h2 id="competitions">Corporate &amp; Case Competitions</h2>
 <p class="lede" style="margin-bottom:1.75rem;">National and campus case competitions alongside coursework and internships.</p>
 
 <div class="entry">
@@ -165,33 +165,48 @@ description: Academic, consulting, and personal projects, corporate case competi
   </div>
 </div>
 
-<h2>Certifications</h2>
-<p class="lede" style="margin-bottom:1.75rem;">Add your certifications here — copy the block below for each one.</p>
-
-<!--
-  TEMPLATE — duplicate this block per certification and fill in the details:
-
-  <div class="entry">
-    <div class="entry-header">
-      <span class="entry-title">Certification Name</span>
-      <span class="entry-date">Issued Month Year</span>
-    </div>
-    <p class="entry-org">Issuing Organization</p>
-    <div class="tag-row">
-      <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="8" r="6"/><path d="M15.5 13.5 17 22l-5-3-5 3 1.5-8.5"/></svg>Certification</span>
-    </div>
-    <div class="paper-links">
-      <a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a>
-    </div>
-  </div>
--->
+<h2 id="certifications">Certifications</h2>
+<p class="lede" style="margin-bottom:1.75rem;">Credential links are placeholders — add yours in the comment below each entry when you have them.</p>
 
 <div class="entry">
   <div class="entry-header">
-    <span class="entry-title">Add your first certification</span>
+    <span class="entry-title">Lean Six Sigma Green Belt</span>
   </div>
-  <p class="entry-org">Replace this placeholder in <code>projects.md</code> — see the template comment above.</p>
   <div class="tag-row">
     <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="8" r="6"/><path d="M15.5 13.5 17 22l-5-3-5 3 1.5-8.5"/></svg>Certification</span>
   </div>
+  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Agents Course</span>
+  </div>
+  <p class="entry-org">Hugging Face &middot; Agentic workflows</p>
+  <div class="tag-row">
+    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="8" r="6"/><path d="M15.5 13.5 17 22l-5-3-5 3 1.5-8.5"/></svg>Certification</span>
+  </div>
+  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Generative AI in Action</span>
+  </div>
+  <p class="entry-org">IBM</p>
+  <div class="tag-row">
+    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="8" r="6"/><path d="M15.5 13.5 17 22l-5-3-5 3 1.5-8.5"/></svg>Certification</span>
+  </div>
+  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Building Customized LLMs, Prompt Engineering &amp; Programming with OpenAI</span>
+  </div>
+  <p class="entry-org">Columbia University</p>
+  <div class="tag-row">
+    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="8" r="6"/><path d="M15.5 13.5 17 22l-5-3-5 3 1.5-8.5"/></svg>Certification</span>
+  </div>
+  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
 </div>
