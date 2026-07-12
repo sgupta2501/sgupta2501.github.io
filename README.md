@@ -68,10 +68,10 @@ assets/img/             → avatar + favicon (swap avatar.svg for a real photo)
 assets/cv/               → drop your resume PDF here
 index.md             → About (home page)
 education.md          → Degrees, timeline layout
-research.md           → Publications + dissertation (separate from Education)
+publications.md       → Publications + dissertation (separate from Education)
 experience.md         → Work history, timeline layout
 leadership.md         → Positions of responsibility
-projects.md           → Projects
+projects.md           → Projects, case competitions &amp; certifications
 contact.md            → Contact info
 ```
 
