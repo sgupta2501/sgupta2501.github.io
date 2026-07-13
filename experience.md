@@ -91,7 +91,7 @@ description: Product management experience at Hero Fincorp, plus internships at 
  </div>
 </div>
 
-<div class="detail-list">
+<div class="detail-list" style="margin-top: 8rem;">
 
   <div class="entry">
     <div class="entry-header">

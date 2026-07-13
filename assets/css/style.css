@@ -467,7 +467,7 @@ h1, h2, h3, h4 {
   position: relative;
   display: flex;
   align-items: center;
-  gap: 7rem;
+  gap: 8rem;
   padding: 3.5rem 3rem;
   width: max-content;
   min-width: 100%;
@@ -519,22 +519,23 @@ h1, h2, h3, h4 {
    toward its neighbors, so there's no coordinate math that can go wrong. */
 .timeline-track.flat .timeline-item.is-up { transform: translateY(22px); }
 
+/* Single-direction connector: each dot draws ONE line reaching toward
+   the next dot (never a segment from both sides meeting in the same
+   gap), so there's no chance of two overlapping renders creating a
+   visible double line from sub-pixel misalignment. */
 .timeline-track.flat .timeline-dot { position: relative; z-index: 1; }
-.timeline-track.flat .timeline-dot::before,
 .timeline-track.flat .timeline-dot::after {
   content: "";
   position: absolute;
   top: 50%;
-  width: 200px;
+  left: 100%;
+  width: 450px;
   height: 3px;
   transform: translateY(-50%);
   background: linear-gradient(90deg, #3D6FE0, #8B5CF6);
   pointer-events: none;
   z-index: -1;
 }
-.timeline-track.flat .timeline-dot::before { right: 100%; }
-.timeline-track.flat .timeline-dot::after { left: 100%; }
-.timeline-track.flat .timeline-item:first-child .timeline-dot::before { display: none; }
 .timeline-track.flat .timeline-item:last-child .timeline-dot::after { display: none; }
 .timeline-track.flat .timeline-dot { width: 16px; height: 16px; }
 
@@ -638,7 +639,7 @@ h1, h2, h3, h4 {
    Detail list — full bullet write-ups, one per timeline entry, shown
    below the wave in the same order. Reuses the .entry block styling.
    ============================================ */
-.detail-list { margin-top: 1rem; }
+.detail-list { margin-top: 2rem; }
 .detail-list .entry-header-with-badge { display: flex; align-items: center; gap: 0.85rem; }
 .detail-list .entry-header-with-badge .org-badge { width: 44px; height: 44px; border-radius: 11px; font-size: 0.68rem; }
 .detail-note { font-size: 0.85rem; color: var(--muted); margin-top: 0.75rem; }
@@ -779,14 +780,14 @@ h1, h2, h3, h4 {
   .timeline-track {
     width: 100%;
     min-width: 0;
-    gap: 4.5rem;
+    gap: 6rem;
     padding: 3.5rem 1.5rem;
   }
   .timeline-item {
     flex: 1 1 0;
     width: auto;
     min-width: 0;
-    max-width: 260px;
+    max-width: 320px;
   }
   .timeline-track { justify-content: center; }
 }
