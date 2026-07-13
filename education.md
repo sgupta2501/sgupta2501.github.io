@@ -106,3 +106,5 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
   </div>
 
 </div>
+
+<script src="{{ '/assets/js/flat-timeline.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>

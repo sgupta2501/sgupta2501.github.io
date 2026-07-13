@@ -519,25 +519,14 @@ h1, h2, h3, h4 {
    toward its neighbors, so there's no coordinate math that can go wrong. */
 .timeline-track.flat .timeline-item.is-up { transform: translateY(22px); }
 
-/* Single-direction connector: each dot draws ONE line reaching toward
-   the next dot (never a segment from both sides meeting in the same
-   gap), so there's no chance of two overlapping renders creating a
-   visible double line from sub-pixel misalignment. */
-.timeline-track.flat .timeline-dot { position: relative; z-index: 1; }
-.timeline-track.flat .timeline-dot::after {
-  content: "";
+.timeline-track.flat .timeline-dot { width: 16px; height: 16px; }
+.timeline-flat-line {
   position: absolute;
-  top: 50%;
-  left: 100%;
-  width: 450px;
   height: 3px;
-  transform: translateY(-50%);
   background: linear-gradient(90deg, #3D6FE0, #8B5CF6);
   pointer-events: none;
   z-index: -1;
 }
-.timeline-track.flat .timeline-item:last-child .timeline-dot::after { display: none; }
-.timeline-track.flat .timeline-dot { width: 16px; height: 16px; }
 
 .timeline-node {
   display: flex;
@@ -863,6 +852,7 @@ h1, h2, h3, h4 {
     padding: 0.5rem 0 0;
   }
   .timeline-svg { display: none; }
+  .timeline-flat-line { display: none; }
 
   .timeline-item,
   .timeline-item.is-up,

@@ -18,18 +18,9 @@ description: Product management experience at Hero Fincorp, plus internships at 
 <script src="{{ '/assets/js/experience-duration.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
 
 <div class="timeline-wrap">
- <div class="timeline-track">
-  <svg class="timeline-svg" preserveAspectRatio="none">
-    <defs>
-      <linearGradient id="timeline-gradient" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#3D6FE0"/>
-        <stop offset="100%" stop-color="#8B5CF6"/>
-      </linearGradient>
-    </defs>
-    <path/>
-  </svg>
+ <div class="timeline-track flat">
 
-  <div class="timeline-item is-up shift-lg">
+  <div class="timeline-item is-up">
     <div class="timeline-card">
       <img src="{{ '/assets/img/logos/icgeb.png' | relative_url }}" class="org-badge badge-img" alt="ICGEB logo">
       <span class="entry-title">Summer Intern</span>
@@ -41,7 +32,7 @@ description: Product management experience at Hero Fincorp, plus internships at 
     </div>
   </div>
 
-  <div class="timeline-item is-down">
+  <div class="timeline-item is-up">
     <div class="timeline-card">
       <img src="{{ '/assets/img/logos/dell.png' | relative_url }}" class="org-badge badge-img" alt="Dell Technologies logo">
       <span class="entry-title">Undergraduate Intern</span>
@@ -53,7 +44,7 @@ description: Product management experience at Hero Fincorp, plus internships at 
     </div>
   </div>
 
-  <div class="timeline-item is-up shift-lg">
+  <div class="timeline-item is-up">
     <div class="timeline-card">
       <img src="{{ '/assets/img/logos/bain.png' | relative_url }}" class="org-badge badge-img" alt="Bain Capability Network logo">
       <span class="entry-title">Winter Intern</span>
@@ -65,7 +56,7 @@ description: Product management experience at Hero Fincorp, plus internships at 
     </div>
   </div>
 
-  <div class="timeline-item is-down">
+  <div class="timeline-item is-up">
     <div class="timeline-card">
       <img src="{{ '/assets/img/logos/hul.png' | relative_url }}" class="org-badge badge-img" alt="Hindustan Unilever logo">
       <span class="entry-title">Digicommerce Intern</span>
@@ -91,7 +82,9 @@ description: Product management experience at Hero Fincorp, plus internships at 
  </div>
 </div>
 
-<div class="detail-list" style="margin-top: 8rem;">
+<script src="{{ '/assets/js/flat-timeline.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
+
+<div class="detail-list">
 
   <div class="entry">
     <div class="entry-header">
