@@ -89,12 +89,13 @@ h1, h2, h3, h4 {
 .avatar-link { display: inline-block; flex-shrink: 0; }
 
 .avatar {
-  width: 92px;
-  height: 92px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
   border: 3px solid rgba(255,255,255,0.25);
   background: var(--bg);
   object-fit: cover;
+  object-position: 50% 8%;
 }
 
 .sidebar-id { min-width: 0; }
@@ -793,7 +794,7 @@ h1, h2, h3, h4 {
   }
 
   .sidebar-header { flex: 1; }
-  .avatar { width: 42px; height: 42px; }
+  .avatar { width: 54px; height: 54px; }
   .sidebar-name { font-size: 1rem; }
   .sidebar-role { display: none; }
 
@@ -885,4 +886,57 @@ h1, h2, h3, h4 {
 
   .contact-grid { grid-template-columns: 1fr; gap: 2.25rem; }
   .contact-cards { grid-template-columns: 1fr 1fr; }
+}
+
+/* ============================================
+   Page-specific logo sizing overrides
+   ============================================ */
+/* Education: all org logos (timeline cards + detail-list write-ups)
+   sized up ~1.5x in area (linear scale ~1.22x) over the 44px base. */
+.page-education .org-badge {
+  width: 54px;
+  height: 54px;
+  border-radius: 13px;
+}
+.page-education .org-badge.badge-img {
+  padding: 7px;
+}
+
+/* Experience: enlarge only the logo inside the compact timeline card;
+   the card's own background box (padding/min-height/width) is untouched. */
+.page-experience .timeline-card .org-badge.badge-img {
+  width: 60px;
+  height: 60px;
+  border-radius: 15px;
+}
+
+/* ============================================
+   Flat timeline dot alignment (Education + Experience)
+   Cards naturally vary in height (titles/orgs wrap differently), which
+   used to push each item's dot to a different Y position even though
+   the connector line only measured the first/last dot. Restructuring
+   the track as a 2-row grid (cards row, node row) with cards bottom-
+   aligned inside a shared, auto-sized row guarantees every dot in
+   every column sits at the exact same Y — no measurement guesswork,
+   no per-item tuning. Scoped to the desktop breakpoint only; the
+   existing mobile block below (max-width: 860px) already replaces
+   this with a simple stacked list and is left untouched.
+   ============================================ */
+@media (min-width: 861px) {
+  .timeline-track.flat {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 190px;
+    grid-template-rows: minmax(156px, auto) auto;
+    gap: 0 8rem;
+  }
+  .timeline-track.flat .timeline-item {
+    display: contents;
+  }
+  .timeline-track.flat .timeline-card {
+    align-self: end;
+  }
+  .timeline-track.flat .timeline-node {
+    align-self: start;
+  }
 }
