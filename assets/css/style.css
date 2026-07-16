@@ -167,6 +167,11 @@ h1, h2, h3, h4 {
   display: flex;
   flex-direction: column;
   gap: 0.3rem;
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255,255,255,0.25) transparent;
 }
 
 .sidebar-nav a {
@@ -581,7 +586,7 @@ h1, h2, h3, h4 {
   border-radius: 16px;
   padding: 1.4rem 1.2rem;
   width: 100%;
-  height: 176px;
+  height: 196px;
   overflow: hidden;
 }
 
@@ -625,7 +630,14 @@ h1, h2, h3, h4 {
   object-fit: contain;
   padding: 6px;
 }
-.timeline-track.stretch-logos .org-badge.badge-img { object-fit: fill; }
+
+/* Education's badges are bigger (not stretched/cropped — proportionally
+   scaled so a wide logo like Shiv Nadar's doesn't distort or crop). */
+.timeline-track.stretch-logos .timeline-card .org-badge {
+  width: 64px;
+  height: 64px;
+  border-radius: 14px;
+}
 
 /* ============================================
    Detail list — full bullet write-ups, one per timeline entry, shown
