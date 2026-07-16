@@ -69,6 +69,12 @@ description: Get in touch with Samarth Gupta - email, LinkedIn, GitHub, Google S
       <span class="contact-card-sub">sgupta2501</span>
     </a>
 
+    <a class="contact-card" href="https://scholar.google.com/citations?user=5JrNL14AAAAJ&hl=en" target="_blank" rel="noopener">
+      <span class="contact-icon"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L1 8.5l4 2.32V17l7 4 7-4v-6.18l2-1.16V15h1V8.5L12 2zm6.06 7.51L12 13.15 5.94 9.51 12 6.02l6.06 3.49zM17 15.99l-5 2.86-5-2.86v-3.94l5 2.9 5-2.9v3.94z"/></svg></span>
+      <span class="contact-card-title">Google Scholar</span>
+      <span class="contact-card-sub">Publications &amp; citations</span>
+    </a>
+
     <a class="contact-card" href="{{ '/assets/cv/FMS_Samarth_Gupta_Resume.pdf' | relative_url }}" target="_blank" rel="noopener">
       <span class="contact-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/></svg></span>
       <span class="contact-card-title">Resume</span>
