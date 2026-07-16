@@ -2,28 +2,33 @@
 layout: default
 title: About
 permalink: /
-description: Product Manager at Hero Fincorp. MBA, FMS Delhi. B.Tech CS, Shiv Nadar Institution of Eminence.
+description: Product Manager building AI-native financial products at the intersection of technology, data, and real business impact.
 ---
 
 <p class="eyebrow">Product · Data · Research</p>
 <p class="hero-name"><span class="fg">Samarth</span> <span class="lg">Gupta</span></p>
 <p class="hero-role">Product Manager · FMS Delhi</p>
-<p class="lede">Product Manager building lending and AI products at Hero Fincorp — with a growing research practice on the side, aimed at a PhD down the line.</p>
+<p class="lede">"Product Manager building AI-native financial products at the intersection of technology, data, and real business impact."</p>
 
-I'm currently a Product Manager at **Hero Fincorp** in New Delhi, where my work spans three things: rebuilding acquisition funnels with experimentation, owning 0→1 initiatives like a D2C lending app and a new secured-lending line, and shipping AI-driven automation for customer service and recruitment. Before this, I picked up an MBA at the **Faculty of Management Studies, Delhi**, and a B.Tech in Computer Science from **Shiv Nadar Institution of Eminence**.
+I'm a Product Manager at **Hero Fincorp**, where I own a portfolio of digital financial products — from 0→1 launches to products already operating at scale. My work spans building AI agents that cut customer service TAT from 18 hours to 30 minutes, shipping a financial copilot targeting 25% retention uplift, redesigning acquisition funnels that scaled customer growth 44% MoM, and launching pilots that opened new customer segments. I work closely with engineering, data, and business teams — and care as much about how something is built as what gets built.
 
-My path here wasn't a straight line through product. Along the way I've analyzed S&P 500 stakeholder data for a finance dissertation, trained a computer-vision model to detect malaria parasites in blood smears, built case-strategy decks at Bain, and run e-commerce shopper-journey research at HUL. I like problems that sit between data and decisions — and lately, that curiosity has been pulling me toward research and academia as a longer-term direction alongside product work.
+I started in tech — ranking 3rd in Computer Science at Shiv Nadar University on a full scholarship — before doing my MBA at FMS Delhi in the top 10%ile. That combination shaped how I think: technically enough to go deep with engineers, commercially enough to keep the business outcome in view.
 
-Outside of work, I play badminton, play guitar (badly, according to my bandmates), read more fiction than is probably productive, and I'm a little too invested in whatever game I've picked up that month.
+Along the way I've worked at **ICGEB** building a computer vision pipeline for malaria detection validated with AIIMS clinicians, at **Dell** building an infrastructure monitoring system across 100k+ servers, at **Bain** contributing to ₹500Cr+ of strategy cases across Asia-Pacific, and at **HUL** identifying a ₹220Cr e-commerce opportunity through product discovery and 50+ consumer interviews. Each experience added a different lens — research, engineering, consulting, and consumer insights — that I carry into product work today.
+
+I've also done work I'm proud of outside the job — presenting research at an international conference in Japan, publishing a book chapter, competing as a national finalist at Aditya Birla Group Stratos, and performing at IIM fests as a guitarist. I mentor when I can, compete when it's interesting, and try to stay genuinely curious about the ideas behind the products I build.
+
+Off the clock: badminton, guitar, fiction books, and video games.
 
 If any of this overlaps with what you're working on, reach me on [LinkedIn](https://linkedin.com/in/samarth-gupta-b932031b4), [GitHub](https://github.com/sgupta2501), or just email **sgupta2501@gmail.com**.
 
-## Recent Highlights
+## Highlights
 
 <ul class="highlights">
-  <li><span class="h-date">2025</span>Joined Hero Fincorp as Product Manager, shipping funnel, lending, and AI-agent initiatives.</li>
-  <li><span class="h-date">2025</span>Completed MBA at FMS Delhi with Distinction, top 10 percentile of the batch.</li>
-  <li><span class="h-date">2024</span>National Finalist (top 9 of 4,100+ entries) — Aditya Birla Group Stratos.</li>
-  <li><span class="h-date">2023</span>Won a Pre-Placement Offer from Bain Capability Network after placing 1st in the Bain-a-thon case competition.</li>
-  <li><span class="h-date">2023</span>Graduated B.Tech Computer Science from Shiv Nadar, ranked 3rd of 105 in the program.</li>
+  <li><strong>Shipped AI products that moved real metrics</strong> — LLM agents cutting customer service TAT 97%, financial copilots targeting 25% retention uplift, and recruitment AI targeting 90% reduction in screening TAT — all in production at Hero Fincorp.</li>
+  <li><strong>Opened new business at scale</strong> — scaled customer acquisition 44% MoM, launched a ₹20Cr pilot for an underserved segment, and contributed to a ₹4,300Cr secured-lending opportunity — through data, experiments, and user research.</li>
+  <li><strong>₹500Cr+ of business impact across four companies</strong> — Bain strategy cases across Asia-Pacific, a ₹220Cr opportunity at HUL, infrastructure cost savings at Dell, and malaria-detection acceleration at ICGEB — before turning 24.</li>
+  <li><strong>Pre-Placement Offers from both Bain and Dell</strong> — two of India's most competitive internship programs, in consulting and engineering respectively, converted on the strength of work done, not connections.</li>
+  <li><strong>Top of class across both degrees</strong> — rank 3 in CS at Shiv Nadar University on a 100% scholarship, top 10%ile at FMS Delhi — consistent academic performance across very different disciplines.</li>
+  <li><strong>Built wide, not just deep</strong> — National Finalist at Aditya Birla Group Stratos (4,100+ registrations), Band Finalist at IIM-L and IIM-I fests, international research presenter in Japan, Marico quiz winner, and mentor to 500+ school students on AI — the kind of range that doesn't fit neatly into a single box.</li>
 </ul>

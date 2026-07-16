@@ -416,6 +416,7 @@ h1, h2, h3, h4 {
 .highlights li { padding-left: 1.4rem; position: relative; color: var(--muted); }
 .highlights li::before { content: "\2022"; color: var(--accent); position: absolute; left: 0.3rem; }
 .highlights .h-date { font-family: var(--font-mono); font-size: 0.75rem; color: var(--accent); margin-right: 0.5rem; }
+.highlights li strong { color: var(--ink); }
 
 /* Org / institution monogram badge (placeholder for real logos) */
 .org-badge {
