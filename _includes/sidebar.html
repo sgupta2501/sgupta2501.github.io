@@ -42,11 +42,41 @@
   (function () {
     var nav = document.querySelector('.sidebar-nav');
     if (!nav) return;
-    var saved = sessionStorage.getItem('sidebarNavScroll');
-    if (saved !== null) nav.scrollTop = parseInt(saved, 10);
-    nav.addEventListener('scroll', function () {
-      sessionStorage.setItem('sidebarNavScroll', nav.scrollTop);
-    });
+
+    function restore() {
+      var savedHref = sessionStorage.getItem('sidebarNavAnchorHref');
+      if (!savedHref) return;
+      var links = nav.querySelectorAll('a');
+      for (var i = 0; i < links.length; i++) {
+        if (links[i].getAttribute('href') === savedHref) {
+          nav.scrollTop = links[i].offsetTop;
+          return;
+        }
+      }
+    }
+
+    function save() {
+      var links = nav.querySelectorAll('a');
+      var top = nav.scrollTop;
+      var topmost = null;
+      for (var i = 0; i < links.length; i++) {
+        if (links[i].offsetTop <= top + 4) {
+          topmost = links[i];
+        } else {
+          break;
+        }
+      }
+      if (topmost) {
+        sessionStorage.setItem('sidebarNavAnchorHref', topmost.getAttribute('href'));
+      }
+    }
+
+    // Restore as early as possible, then again once everything (including
+    // web fonts, which can shift layout after first paint) has settled.
+    restore();
+    window.addEventListener('load', restore);
+    nav.addEventListener('scroll', save);
+    nav.addEventListener('click', save, true);
   })();
   </script>
 
