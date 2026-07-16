@@ -71,7 +71,11 @@ education.md          → Degrees, timeline layout
 publications.md       → Publications + dissertation (separate from Education)
 experience.md         → Work history, timeline layout
 leadership.md         → Positions of responsibility
-projects.md           → Projects, case competitions &amp; certifications
+projects.md           → Projects
+competitions.md       → Competitions
+certifications.md     → Certifications
+extracurricular.md    → Extra-Curricular
+awards.md             → Awards
 contact.md            → Contact info
 ```
 

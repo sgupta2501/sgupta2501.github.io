@@ -7,7 +7,7 @@ description: Get in touch with Samarth Gupta - email, LinkedIn, GitHub, Google S
 
 <p class="eyebrow">Contact</p>
 <h1>Let's Connect</h1>
-<p class="lede">LinkedIn, Email, Call, or just a WhatsApp— whichever's easiest.</p>
+<p class="lede">Resume, LinkedIn, GitHub, Google Scholar, or just an email — whichever's easiest.</p>
 
 <div class="contact-grid">
 
@@ -45,16 +45,6 @@ description: Get in touch with Samarth Gupta - email, LinkedIn, GitHub, Google S
 
     <div class="contact-method">
       <span class="contact-icon">
-        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.1-1.7-.9-2-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-.3-.1-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.3.4-.5.1-.1.2-.3.3-.5.1-.2 0-.4 0-.5C10 9 9.4 7.6 9.1 7c-.2-.5-.5-.4-.7-.4h-.6c-.2 0-.5.1-.8.4C6.7 7.3 6 8 6 9.3s.8 2.6 1 2.8c.1.2 1.9 2.9 4.6 4 .6.3 1.1.4 1.5.6.6.2 1.2.2 1.6.1.5-.1 1.7-.7 1.9-1.3.2-.6.2-1.2.2-1.3-.1-.2-.3-.2-.6-.4z"/><path d="M12 2a10 10 0 0 0-8.6 15L2 22l5.2-1.4A10 10 0 1 0 12 2zm0 18.2c-1.6 0-3.1-.4-4.5-1.2l-.3-.2-3.1.8.8-3-.2-.3A8.2 8.2 0 1 1 12 20.2z"/></svg>
-      </span>
-      <div>
-        <p class="contact-method-label">WhatsApp</p>
-        <p class="contact-method-value"><a href="https://wa.me/918447481730" target="_blank" rel="noopener">+91-8447481730</a></p>
-      </div>
-    </div>
-
-    <div class="contact-method">
-      <span class="contact-icon">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0z"/><circle cx="12" cy="10" r="3"/></svg>
       </span>
       <div>
@@ -77,12 +67,6 @@ description: Get in touch with Samarth Gupta - email, LinkedIn, GitHub, Google S
       <span class="contact-icon"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.58 2 12.25c0 4.53 2.87 8.37 6.84 9.73.5.1.68-.22.68-.49 0-.24-.01-1.04-.01-1.89-2.78.62-3.37-1.22-3.37-1.22-.45-1.18-1.11-1.49-1.11-1.49-.91-.64.07-.63.07-.63 1 .07 1.53 1.06 1.53 1.06.89 1.56 2.34 1.11 2.91.85.09-.66.35-1.11.63-1.37-2.22-.26-4.56-1.14-4.56-5.06 0-1.12.39-2.03 1.03-2.75-.1-.26-.45-1.31.1-2.73 0 0 .84-.28 2.75 1.05a9.32 9.32 0 0 1 5 0c1.9-1.33 2.74-1.05 2.74-1.05.55 1.42.2 2.47.1 2.73.64.72 1.03 1.63 1.03 2.75 0 3.93-2.34 4.79-4.57 5.05.36.32.68.94.68 1.9 0 1.37-.01 2.47-.01 2.81 0 .27.18.6.69.49A10.26 10.26 0 0 0 22 12.25C22 6.58 17.52 2 12 2z"/></svg></span>
       <span class="contact-card-title">GitHub</span>
       <span class="contact-card-sub">sgupta2501</span>
-    </a>
-
-    <a class="contact-card" href="https://scholar.google.com/citations?user=5JrNL14AAAAJ&hl=en" target="_blank" rel="noopener">
-      <span class="contact-icon"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L1 8.5l4 2.32V17l7 4 7-4v-6.18l2-1.16V15h1V8.5L12 2zm6.06 7.51L12 13.15 5.94 9.51 12 6.02l6.06 3.49zM17 15.99l-5 2.86-5-2.86v-3.94l5 2.9 5-2.9v3.94z"/></svg></span>
-      <span class="contact-card-title">Google Scholar</span>
-      <span class="contact-card-sub">Publications profile</span>
     </a>
 
     <a class="contact-card" href="{{ '/assets/cv/FMS_Samarth_Gupta_Resume.pdf' | relative_url }}" target="_blank" rel="noopener">

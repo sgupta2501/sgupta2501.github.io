@@ -10,7 +10,7 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
 <p class="lede">Two degrees, one very long stretch of Dean's Lists and case competitions in between.</p>
 
 <div class="timeline-wrap">
- <div class="timeline-track flat">
+ <div class="timeline-track flat stretch-logos">
 
   <div class="timeline-item is-up">
     <div class="timeline-card">
@@ -20,7 +20,7 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
     </div>
     <div class="timeline-node">
       <span class="timeline-dot"></span>
-      <span class="timeline-pill">2019</span>
+      <span class="timeline-pill">2018-2019</span>
     </div>
   </div>
 
@@ -32,7 +32,7 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
     </div>
     <div class="timeline-node">
       <span class="timeline-dot"></span>
-      <span class="timeline-pill">Jul 2019 – Jun 2023</span>
+      <span class="timeline-pill">2019-2023</span>
     </div>
   </div>
 
@@ -44,7 +44,7 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
     </div>
     <div class="timeline-node">
       <span class="timeline-dot"></span>
-      <span class="timeline-pill">Jul 2023 – Apr 2025</span>
+      <span class="timeline-pill">2023-2025</span>
     </div>
   </div>
  </div>
@@ -61,7 +61,7 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
           <span class="entry-org">Sardar Patel Vidyalaya, New Delhi</span>
         </div>
       </div>
-      <span class="entry-date">2019</span>
+      <span class="entry-date">2018-2019</span>
     </div>
     <ul>
       <li>**94%** aggregate.</li>
@@ -77,7 +77,7 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
           <span class="entry-org">Shiv Nadar Institution of Eminence, Delhi NCR</span>
         </div>
       </div>
-      <span class="entry-date">Jul 2019 – Jun 2023</span>
+      <span class="entry-date">2019-2023</span>
     </div>
     <ul>
       <li>**9.13**/10 CGPA — ranked **3rd** of **105** in Computer Science, **6th** of **254** across the School of Engineering.</li>
@@ -95,7 +95,7 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
           <span class="entry-org">Faculty of Management Studies (FMS), University of Delhi</span>
         </div>
       </div>
-      <span class="entry-date">Jul 2023 – Apr 2025</span>
+      <span class="entry-date">2023-2025</span>
     </div>
     <ul>
       <li>Major: Strategy &amp; Finance · Minor: Operations — **7.84**/10 CGPA, **Top 10** percentile, graduated with Distinction.</li>

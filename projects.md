@@ -1,15 +1,33 @@
 ---
 layout: default
-title: Co-Curricular
+title: Projects
 permalink: /projects/
-description: Academic, consulting, and personal projects, corporate case competitions, and certifications.
+description: Academic, consulting, and personal projects.
 ---
 
-<p class="eyebrow">Co-Curricular</p>
-<h1>Co-Curricular</h1>
-<p class="lede">A mix of consulting engagements, coursework, case competitions, and things built purely out of curiosity.</p>
+<p class="eyebrow">Projects</p>
+<h1>Projects</h1>
+<p class="lede">A mix of consulting engagements, coursework, and things built purely out of curiosity.</p>
 
-<h2 id="projects">Projects</h2>
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">ESG &amp; Stakeholder Analysis: Role of Innovation in Finance</span>
+    <span class="entry-date">2024</span>
+  </div>
+  <p class="entry-org">Finance Dissertation · Mentored by Prof. Monica Singhania · FMS Delhi</p>
+  <p>A longitudinal (2015–2023) study on **S&amp;P 500** firms using Bloomberg data, analyzing **8** ESG proxies against **8** stakeholder groups. Rank analysis, polynomial regression, and industry-level comparison validated the hypothesis that R&amp;D-driven innovation positively moderates the relationship between ESG disclosure, performance, and stakeholder interests.</p>
+  <div class="tag-row">
+    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M22 10v6M2 10l10-5 10 5-10 5-10-5z"/><path d="M6 12v5c0 1.66 2.69 3 6 3s6-1.34 6-3v-5"/></svg>Academic</span>
+    <span class="tag">Finance</span>
+    <span class="tag">ESG</span>
+  </div>
+  <!-- Optional links — uncomment and fill in once you have them:
+  <div class="paper-links">
+    <a class="paper-link" href="YOUR_GITHUB_REPO_URL" target="_blank" rel="noopener">GitHub</a>
+    <a class="paper-link" href="{{ '/assets/papers/esg-stakeholder-analysis.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
+  </div>
+  -->
+</div>
 
 <div class="entry">
   <div class="entry-header">
@@ -121,97 +139,3 @@ description: Academic, consulting, and personal projects, corporate case competi
   </div>
   -->
 </div>
-
-<h2 id="competitions">Corporate &amp; Case Competitions</h2>
-<p class="lede" style="margin-bottom:1.75rem;">National and campus case competitions alongside coursework and internships. Placements and results now live under <a href="{{ '/awards/' | relative_url }}">Awards</a>.</p>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">Aditya Birla Group Stratos</span>
-  </div>
-  <p class="entry-org">National-level strategy case competition</p>
-  <p><em>Draft — verify before publishing:</em> Tackled a market-entry and portfolio-prioritization case for an Aditya Birla Group business, recommending where to allocate capital across competing growth bets.</p>
-  <div class="tag-row">
-    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0V4z"/><path d="M5 4H3v2a4 4 0 0 0 4 4M19 4h2v2a4 4 0 0 1-4 4"/></svg>Case Competition</span>
-  </div>
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">Tata Imagination Challenge</span>
-  </div>
-  <p class="entry-org">National innovation &amp; ideation challenge</p>
-  <p><em>Draft — verify before publishing:</em> Proposed a new-business concept addressing a sustainability-linked consumer need within the Tata Group's portfolio, from opportunity sizing through go-to-market.</p>
-  <div class="tag-row">
-    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0V4z"/><path d="M5 4H3v2a4 4 0 0 0 4 4M19 4h2v2a4 4 0 0 1-4 4"/></svg>Case Competition</span>
-  </div>
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">Bain-a-thon</span>
-  </div>
-  <p class="entry-org">Bain Capability Network internal case competition</p>
-  <p><em>Draft — verify before publishing:</em> Solved a client-style growth-strategy case under Bain's problem-solving framework, structuring the issue tree and presenting a recommendation to a partner panel.</p>
-  <div class="tag-row">
-    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0V4z"/><path d="M5 4H3v2a4 4 0 0 0 4 4M19 4h2v2a4 4 0 0 1-4 4"/></svg>Case Competition</span>
-  </div>
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">HCL&ndash;SNU Gaming Ideathon</span>
-  </div>
-  <p class="entry-org">Shiv Nadar Institution of Eminence</p>
-  <p><em>Draft — verify before publishing:</em> Pitched a game-design concept addressing a stated gap in the mobile/casual gaming market as part of HCL's campus ideathon.</p>
-  <div class="tag-row">
-    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0V4z"/><path d="M5 4H3v2a4 4 0 0 0 4 4M19 4h2v2a4 4 0 0 1-4 4"/></svg>Case Competition</span>
-  </div>
-</div>
-
-<h2 id="certifications">Certifications</h2>
-<p class="lede" style="margin-bottom:1.75rem;">Credential links are placeholders — add yours in the comment below each entry when you have them.</p>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">Lean Six Sigma Green Belt</span>
-  </div>
-  <div class="tag-row">
-    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="8" r="6"/><path d="M15.5 13.5 17 22l-5-3-5 3 1.5-8.5"/></svg>Certification</span>
-  </div>
-  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">Agents Course</span>
-  </div>
-  <p class="entry-org">Hugging Face &middot; Agentic workflows</p>
-  <div class="tag-row">
-    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="8" r="6"/><path d="M15.5 13.5 17 22l-5-3-5 3 1.5-8.5"/></svg>Certification</span>
-  </div>
-  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">Generative AI in Action</span>
-  </div>
-  <p class="entry-org">IBM</p>
-  <div class="tag-row">
-    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="8" r="6"/><path d="M15.5 13.5 17 22l-5-3-5 3 1.5-8.5"/></svg>Certification</span>
-  </div>
-  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">Building Customized LLMs, Prompt Engineering &amp; Programming with OpenAI</span>
-  </div>
-  <p class="entry-org">Columbia University</p>
-  <div class="tag-row">
-    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="8" r="6"/><path d="M15.5 13.5 17 22l-5-3-5 3 1.5-8.5"/></svg>Certification</span>
-  </div>
-  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
-</div>
-

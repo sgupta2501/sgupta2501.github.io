@@ -13,9 +13,7 @@
 
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 </head>
-{% assign page_slug = page.url | remove_first: "/" | remove: "/" %}
-{% if page_slug == "" %}{% assign page_slug = "home" %}{% endif %}
-<body class="page-{{ page_slug }}">
+<body>
   <div class="layout">
     {% include sidebar.html %}
     <main class="content">

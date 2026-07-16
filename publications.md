@@ -11,26 +11,6 @@ description: Published research and dissertation work, ahead of a future PhD.
 
 <div class="entry">
   <div class="entry-header">
-    <span class="entry-title">ESG &amp; Stakeholder Analysis: Role of Innovation in Finance</span>
-    <span class="entry-date">2024</span>
-  </div>
-  <p class="entry-org">Finance Dissertation · Mentored by Prof. Monica Singhania · FMS Delhi</p>
-  <p>A longitudinal (2015–2023) study on **S&amp;P 500** firms using Bloomberg data, analyzing **8** ESG proxies against **8** stakeholder groups. Rank analysis, polynomial regression, and industry-level comparison validated the hypothesis that R&amp;D-driven innovation positively moderates the relationship between ESG disclosure, performance, and stakeholder interests.</p>
-  <div class="tag-row">
-    <span class="tag">Finance</span>
-    <span class="tag">ESG</span>
-    <span class="tag">Dissertation</span>
-  </div>
-  <!-- Optional links — uncomment and fill in once you have them:
-  <div class="paper-links">
-    <a class="paper-link" href="YOUR_GITHUB_REPO_URL" target="_blank" rel="noopener">GitHub</a>
-    <a class="paper-link" href="{{ '/assets/papers/YOUR_FILE.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
-  </div>
-  -->
-</div>
-
-<div class="entry">
-  <div class="entry-header">
     <span class="entry-title">Bibliometric Study of Journals in Public Administration</span>
     <span class="entry-date">2025</span>
   </div>
