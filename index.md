@@ -20,7 +20,7 @@ I've also done work I'm proud of outside the job — presenting research at an i
 
 Off the clock: badminton, guitar, fiction books, and video games.
 
-If any of this overlaps with what you're working on, reach me on [LinkedIn](https://linkedin.com/in/samarth-gupta-b932031b4), Whatsapp/Call **+91-8447481730** or just email **sgupta2501@gmail.com**.
+If any of this overlaps with what you're working on, reach me on [LinkedIn](https://linkedin.com/in/samarth-gupta-b932031b4), [GitHub](https://github.com/sgupta2501), or just email **sgupta2501@gmail.com**.
 
 ## Highlights
 
