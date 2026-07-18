@@ -105,7 +105,7 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
     </ul>
 
     <span class="case-study-label">Competitions &amp; Research</span>
-    <p>Campus Finalist at HCL-SNU Gaming Ideathon (Fantastic-9, Top <strong>4</strong>/<strong>50+</strong> teams); presented research at the International Communication &amp; Community Development Conference, Japan; published a book chapter (IGI Global); built a real-time cricket analytics MVP for wicket probability prediction at a university hackathon.</p>
+    <p>National Finalist at HCL-SNU Gaming Ideathon (Fantastic-9, 1/4 out of <strong>50+</strong> teams); presented research at the International Communication &amp; Community Development Conference, Japan; published a book chapter (IGI Global); built a real-time cricket analytics MVP for wicket probability prediction at a university hackathon.</p>
 
     <span class="case-study-label">Positions of Responsibility</span>
     <p>Led <strong>3</strong> concurrent roles — Data Science Lead at Google GDSC (restructured <strong>12</strong>-member mentoring team, improved workshop engagement, created project opportunities); Content Head for Annual Labyrinth at BREEZE Fest (led <strong>14+</strong> member team, responsible for riddles and QR non-disclosure); Mentor at Young Thinkers Masterclass (mentored <strong>500+</strong> school students on AI alongside Prof. Dr. Pooja Malik).</p>

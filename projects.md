@@ -14,7 +14,7 @@ description: Academic, consulting, and personal projects.
     <span class="entry-title">ESG &amp; Stakeholder Analysis: Role of Innovation in Finance</span>
     <span class="entry-date">2024</span>
   </div>
-  <p class="entry-org">Finance Dissertation · Mentored by Prof. Monica Singhania · FMS Delhi</p>
+  <p class="entry-org">Finance Dissertation · FMS Delhi</p>
   <p>A longitudinal (2015–2023) study on <strong>S&amp;P 500</strong> firms using Bloomberg data, analyzing <strong>8</strong> ESG proxies against <strong>8</strong> stakeholder groups. Rank analysis, polynomial regression, and industry-level comparison validated the hypothesis that R&amp;D-driven innovation positively moderates the relationship between ESG disclosure, performance, and stakeholder interests.</p>
   <div class="tag-row">
     <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M22 10v6M2 10l10-5 10 5-10 5-10-5z"/><path d="M6 12v5c0 1.66 2.69 3 6 3s6-1.34 6-3v-5"/></svg>Academic</span>

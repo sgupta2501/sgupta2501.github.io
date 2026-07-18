@@ -2,7 +2,7 @@
 layout: default
 title: Extra-Curricular
 permalink: /extracurricular/
-description: Mentorship and workshop organizing alongside academics and work.
+description: Mentorship, music, workshops, and community involvement alongside academics and work.
 ---
 
 <p class="eyebrow">Extra-Curricular</p>
@@ -21,11 +21,59 @@ description: Mentorship and workshop organizing alongside academics and work.
 
 <div class="entry">
   <div class="entry-header">
-    <span class="entry-title">ENARXI, FMS (Induction)</span>
+    <span class="entry-title">Tin Enarxi, Sports Society, FMS (Induction Event)</span>
   </div>
-  <p class="entry-org">My team was the overall winner</p>
-  <p>Organized an online workshop on Introduction to Machine Learning that drew <strong>85+</strong> university student participants.</p>
+  <p class="entry-org">Overall Winner &amp; Basketball 1st Runner-Up</p>
+  <div class="tag-row">
+    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/><path d="M2 12h20"/></svg>Sports</span>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Workshops &amp; Knowledge Sessions Organized</span>
+  </div>
+  <ul>
+    <li>Introduction to ML workshop — <strong>85+</strong> university participants.</li>
+    <li>LaTeX knowledge session for the IEEE Student Chapter, SNIoE.</li>
+  </ul>
   <div class="tag-row">
     <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/><path d="M9 2v2M15 2v2M9 20v2M15 20v2M2 9h2M2 15h2M20 9h2M20 15h2"/></svg>Workshop</span>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">No Strings Attached</span>
+  </div>
+  <p class="entry-org">Founding Member &amp; Guitarist &middot; FMS Delhi</p>
+  <div class="tag-row">
+    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>Music</span>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Book Chapter Publication</span>
+  </div>
+  <p class="entry-org">IGI Global</p>
+  <p>Published a book chapter based on MOOC research conducted at SNU — the same underlying work later presented at the International Communication &amp; Community Development Conference in Japan (see <a href="{{ '/publications/' | relative_url }}">Publications</a>).</p>
+  <div class="tag-row">
+    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>Publication</span>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Societies &amp; Memberships</span>
+  </div>
+  <ul>
+    <li>Badminton Team Member, FMS Delhi.</li>
+    <li>Member, IEEE Student Chapter, SNU.</li>
+    <li>Member, Nexus Gaming Society, SNU.</li>
+    <li>Member, ACM — ACE group for ML, SNU.</li>
+  </ul>
+  <div class="tag-row">
+    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>Community</span>
   </div>
 </div>
