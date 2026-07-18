@@ -24,20 +24,8 @@ description: National and campus case competitions across FMS Delhi and Shiv Nad
 <div class="entry">
   <div class="entry-header">
     <span class="entry-title">Tata Imagination Challenge</span>
-    <span class="entry-date">2023</span>
   </div>
-  <p class="entry-org">National Semi-Finalist — <strong>250k+</strong> registrations</p>
-  <div class="tag-row">
-    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0V4z"/><path d="M5 4H3v2a4 4 0 0 0 4 4M19 4h2v2a4 4 0 0 1-4 4"/></svg>Case Competition</span>
-  </div>
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">Tata Imagination Challenge</span>
-    <span class="entry-date">2024</span>
-  </div>
-  <p class="entry-org">National Semi-Finalist — <strong>250k+</strong> registrations</p>
+  <p class="entry-org">Two-time National Semi-Finalist — <strong>250k+</strong> registrations</p>
   <div class="tag-row">
     <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0V4z"/><path d="M5 4H3v2a4 4 0 0 0 4 4M19 4h2v2a4 4 0 0 1-4 4"/></svg>Case Competition</span>
   </div>
@@ -98,7 +86,6 @@ description: National and campus case competitions across FMS Delhi and Shiv Nad
 <div class="entry">
   <div class="entry-header">
     <span class="entry-title">HCL–SNU Gaming Ideathon</span>
-    <span class="entry-date">2020</span>
   </div>
   <p class="entry-org">National Finalist — Team Fantastic-9, 1/4 out of <strong>50+</strong> teams</p>
   <div class="tag-row">

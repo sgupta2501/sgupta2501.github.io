@@ -58,6 +58,30 @@ description: Mentorship, music, workshops, and community involvement alongside a
   </div>
 </div>
 
+<h2>Invited Talks</h2>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Conference Presentation on MOOCs</span>
+    <span class="entry-date">2019</span>
+  </div>
+  <p class="entry-org">International Communication and Community Development Conference, Okayama, Japan</p>
+  <div class="tag-row">
+    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M12 20h9M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>Speaking</span>
+  </div>
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Career Journey, MBA &amp; Path Forward</span>
+    <span class="entry-date">May 2026</span>
+  </div>
+  <p class="entry-org">Shiv Nadar Institution of Eminence</p>
+  <div class="tag-row">
+    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M12 20h9M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>Speaking</span>
+  </div>
+</div>
+
 <div class="entry">
   <div class="entry-header">
     <span class="entry-title">Societies &amp; Memberships</span>

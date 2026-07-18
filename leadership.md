@@ -18,7 +18,6 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
         Class Representative, MBFS
       </span>
     </div>
-    <span class="entry-date">2024 – Present</span>
   </div>
   <p class="entry-org">FMS, Delhi</p>
   <ul>
@@ -37,13 +36,12 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
         Executive Member, Light Art (Design Club)
       </span>
     </div>
-    <span class="entry-date">2024 – 2025</span>
   </div>
   <p class="entry-org">FMS, Delhi</p>
   <ul>
     <li>Selected (1 of <strong>3</strong>) from a batch of <strong>300+</strong> students to serve as Executive Member of the design club.</li>
     <li>Designed <strong>7</strong> merchandise items, curated posters for <strong>5</strong> annual events, and created <strong>40+</strong> social-media creatives for <strong>17</strong> FMS societies.</li>
-    <li>Delivered <strong>100+</strong> slides for the institute's official NAAC 2024 accreditation visit, reporting directly to the Dean.</li>
+    <li>Delivered <strong>100+</strong> slides for the institute's official NAAC accreditation visit, reporting directly to the Dean.</li>
     <li>Helped drive procurement of a Canva Pro subscription for the club's design workflow.</li>
   </ul>
   <div class="tag-row"><span class="tag">Design</span></div>
@@ -58,13 +56,12 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
         Member, Aarohan (Music Society)
       </span>
     </div>
-    <span class="entry-date">Present</span>
   </div>
   <p class="entry-org">CulSoc, FMS Delhi</p>
   <ul>
     <li>Selected (1 of <strong>3</strong> out of <strong>300+</strong> students) to foster music culture and represent FMS in cultural competitions.</li>
     <li>Managed Aarohan's Instagram presence, hosted the Octaves music series, and organized jamming sessions and event sponsorships.</li>
-    <li>Helped organize Encore and Big Band Theory, the flagship musical events of Fiesta '25, and assisted in refurbishing ₹<strong>180,000+</strong> worth of music-room instruments.</li>
+    <li>Helped organize Encore and Big Band Theory, the flagship musical events of Fiesta, and assisted in refurbishing ₹<strong>180,000+</strong> worth of music-room instruments.</li>
   </ul>
   <div class="tag-row"><span class="tag">Music &amp; Culture</span></div>
 </div>
@@ -78,7 +75,6 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
         Associate Member, Sports Society
       </span>
     </div>
-    <span class="entry-date">2023 – 2024</span>
   </div>
   <p class="entry-org">FMS, Delhi</p>
   <ul>
@@ -93,13 +89,57 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
 <div class="entry">
   <div class="entry-header">
     <div class="entry-header-with-badge">
+      <img src="{{ '/assets/img/logos/bsg.png' | relative_url }}" class="org-badge badge-sm badge-img" alt="Bharat Soka Gakkai logo">
+      <span class="entry-title">
+        <svg class="entry-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+        District Chief
+      </span>
+    </div>
+  </div>
+  <p class="entry-org">Bharat Soka Gakkai (BSG) &middot; Member for <span data-tenure-since="2005-07-18">Calculating tenure…</span></p>
+
+  <p>Bharat Soka Gakkai (BSG) is the Indian affiliate of Soka Gakkai International (SGI), a global grassroots organization with <strong>12 million</strong> members across <strong>192</strong> countries, dedicated to promoting the values of happiness and respect for all through activities under the pillars of peace, culture, education, and sustainability. At the heart of everything BSG does is encouraging individuals to lead lives for the betterment of society — "Soka" itself meaning "value creation."</p>
+
+  <p>I joined BSG in secondary school — a commitment I have carried across school, university, and now my professional life for nearly two decades. Over this journey I have progressed through three levels of BSG's study examinations — Entrance, Introductory, and Intermediate — reflecting a deepening engagement with the philosophy and practice, not just membership.</p>
+
+  <span class="case-study-label">Leadership Progression</span>
+  <p>My leadership journey within BSG spans almost a decade. It began with being groomed as part of the first Hosu-Kai leadership batch — a foundational experience that shaped how I think about mentorship, responsibility, and community building. From there I served as Block Chief before taking on my current role as District Chief, responsible for guiding and supporting members across my district community.</p>
+
+  <span class="case-study-label">Culture &amp; Music</span>
+  <p>Alongside the leadership track, I have contributed to BSG's cultural mission through national-level performances and as a musician with the New Age Symphony group — a role I have held since the group's inauguration. Music, for me, has always been inseparable from the broader BSG spirit of using culture as a vehicle for human connection and positive change.</p>
+
+  <p class="detail-note">BSG is the organization where I first understood what consistent, long-term commitment to something larger than yourself actually feels like — and that has quietly shaped how I approach leadership everywhere else.</p>
+
+  <div class="tag-row"><span class="tag">Community Service</span> <span class="tag">Leadership</span> <span class="tag">Music</span></div>
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <div class="entry-header-with-badge">
+      <img src="{{ '/assets/img/logos/snu.png' | relative_url }}" class="org-badge badge-sm badge-img" alt="Shiv Nadar Institution of Eminence logo">
+      <span class="entry-title">
+        <svg class="entry-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/><path d="M9 2v2M15 2v2M9 20v2M15 20v2M2 9h2M2 15h2M20 9h2M20 15h2"/></svg>
+        Data Science Lead, Google Developer Student Club (GDSC)
+      </span>
+    </div>
+  </div>
+  <p class="entry-org">Shiv Nadar Institution of Eminence</p>
+  <ul>
+    <li>Restructured a <strong>12</strong>-member mentor team to improve delegation, accountability, and workshop engagement.</li>
+    <li>Created project opportunities for University students exploring the data science domain.</li>
+  </ul>
+  <div class="tag-row"><span class="tag">Data Science</span> <span class="tag">Tech Community</span></div>
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <div class="entry-header-with-badge">
       <img src="{{ '/assets/img/logos/snu.png' | relative_url }}" class="org-badge badge-sm badge-img" alt="Shiv Nadar Institution of Eminence logo">
       <span class="entry-title">
         <svg class="entry-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
         Content Head, Annual Labyrinth Treasure Hunt
       </span>
     </div>
-    <span class="entry-date">2022</span>
   </div>
   <p class="entry-org">Shiv Nadar Institution of Eminence</p>
   <ul>
@@ -118,60 +158,12 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
         Mentor, Young Thinkers Master Class
       </span>
     </div>
-    <span class="entry-date">2021</span>
   </div>
   <p class="entry-org">Shiv Nadar Institution of Eminence</p>
   <ul>
     <li>Mentored <strong>500+</strong> school students on Artificial Intelligence alongside faculty advisor Dr. Pooja Malik.</li>
   </ul>
   <div class="tag-row"><span class="tag">Mentorship</span> <span class="tag">AI</span></div>
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <div class="entry-header-with-badge">
-      <img src="{{ '/assets/img/logos/snu.png' | relative_url }}" class="org-badge badge-sm badge-img" alt="Shiv Nadar Institution of Eminence logo">
-      <span class="entry-title">
-        <svg class="entry-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/><path d="M9 2v2M15 2v2M9 20v2M15 20v2M2 9h2M2 15h2M20 9h2M20 15h2"/></svg>
-        Data Science Lead, Google Developer Student Club (GDSC)
-      </span>
-    </div>
-    <span class="entry-date">2022</span>
-  </div>
-  <p class="entry-org">Shiv Nadar Institution of Eminence</p>
-  <ul>
-    <li>Restructured a <strong>12</strong>-member mentor team to improve delegation, accountability, and workshop engagement.</li>
-    <li>Created project opportunities for University students exploring the data science domain.</li>
-  </ul>
-  <div class="tag-row"><span class="tag">Data Science</span> <span class="tag">Tech Community</span></div>
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <div class="entry-header-with-badge">
-      <img src="{{ '/assets/img/logos/bsg.png' | relative_url }}" class="org-badge badge-sm badge-img" alt="Bharat Soka Gakkai logo">
-      <span class="entry-title">
-        <svg class="entry-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
-        District Chief
-      </span>
-    </div>
-    <span class="entry-date">Jul 2005 &ndash; Present</span>
-  </div>
-  <p class="entry-org">Bharat Soka Gakkai (BSG) &middot; Member for <span data-tenure-since="2005-07-18">Calculating tenure…</span></p>
-
-  <p>Bharat Soka Gakkai (BSG) is the Indian affiliate of Soka Gakkai International (SGI), a global grassroots organization with <strong>12 million</strong> members across <strong>192</strong> countries, dedicated to promoting the values of happiness and respect for all through activities under the pillars of peace, culture, education, and sustainability. At the heart of everything BSG does is encouraging individuals to lead lives for the betterment of society — "Soka" itself meaning "value creation."</p>
-
-  <p>I joined BSG on 18th July 2005 — a commitment I have carried across school, university, and now my professional life for nearly two decades. Over this journey I have progressed through three levels of BSG's study examinations — Entrance, Introductory, and Intermediate — reflecting a deepening engagement with the philosophy and practice, not just membership.</p>
-
-  <span class="case-study-label">Leadership Progression</span>
-  <p>My leadership journey within BSG spans almost a decade. It began with being groomed as part of the first Hosu-Kai leadership batch (2017&ndash;2019) — a foundational experience that shaped how I think about mentorship, responsibility, and community building. From there I served as Block Chief (2019&ndash;2021) before taking on my current role as District Chief (2021&ndash;present), responsible for guiding and supporting members across my district community.</p>
-
-  <span class="case-study-label">Culture &amp; Music</span>
-  <p>Alongside the leadership track, I have contributed to BSG's cultural mission through national-level performances and as a musician with the New Age Symphony group — a role I have held since the group's inauguration in 2019. Music, for me, has always been inseparable from the broader BSG spirit of using culture as a vehicle for human connection and positive change.</p>
-
-  <p class="detail-note">BSG is the organization where I first understood what consistent, long-term commitment to something larger than yourself actually feels like — and that has quietly shaped how I approach leadership everywhere else.</p>
-
-  <div class="tag-row"><span class="tag">Community Service</span> <span class="tag">Leadership</span> <span class="tag">Music</span></div>
 </div>
 
 <script src="{{ '/assets/js/tenure.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>

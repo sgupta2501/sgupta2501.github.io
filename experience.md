@@ -22,37 +22,13 @@ description: Product management experience at Hero Fincorp, plus internships at 
 
   <div class="timeline-item is-up">
     <div class="timeline-card">
-      <img src="{{ '/assets/img/logos/icgeb.png' | relative_url }}" class="org-badge badge-img" alt="ICGEB logo">
-      <span class="entry-title">Summer Intern</span>
-      <span class="entry-org">ICGEB</span>
+      <img src="{{ '/assets/img/logos/hero-fincorp.png' | relative_url }}" class="org-badge badge-img" alt="Hero Fincorp logo">
+      <span class="entry-title">Product Manager</span>
+      <span class="entry-org">Hero Fincorp</span>
     </div>
     <div class="timeline-node">
       <span class="timeline-dot"></span>
-      <span class="timeline-pill">May &ndash; Aug 2021</span>
-    </div>
-  </div>
-
-  <div class="timeline-item is-up">
-    <div class="timeline-card">
-      <img src="{{ '/assets/img/logos/dell.png' | relative_url }}" class="org-badge badge-img" alt="Dell Technologies logo">
-      <span class="entry-title">Undergraduate Intern</span>
-      <span class="entry-org">Dell Technologies</span>
-    </div>
-    <div class="timeline-node">
-      <span class="timeline-dot"></span>
-      <span class="timeline-pill">May &ndash; Jul 2022</span>
-    </div>
-  </div>
-
-  <div class="timeline-item is-up">
-    <div class="timeline-card">
-      <img src="{{ '/assets/img/logos/bain.png' | relative_url }}" class="org-badge badge-img" alt="Bain Capability Network logo">
-      <span class="entry-title">Winter Intern</span>
-      <span class="entry-org">Bain Capability Network</span>
-    </div>
-    <div class="timeline-node">
-      <span class="timeline-dot"></span>
-      <span class="timeline-pill">Jan &ndash; Jun 2023</span>
+      <span class="timeline-pill">May 2025 &ndash; Present</span>
     </div>
   </div>
 
@@ -70,13 +46,37 @@ description: Product management experience at Hero Fincorp, plus internships at 
 
   <div class="timeline-item is-up">
     <div class="timeline-card">
-      <img src="{{ '/assets/img/logos/hero-fincorp.png' | relative_url }}" class="org-badge badge-img" alt="Hero Fincorp logo">
-      <span class="entry-title">Product Manager</span>
-      <span class="entry-org">Hero Fincorp</span>
+      <img src="{{ '/assets/img/logos/bain.png' | relative_url }}" class="org-badge badge-img" alt="Bain Capability Network logo">
+      <span class="entry-title">Winter Intern</span>
+      <span class="entry-org">Bain Capability Network</span>
     </div>
     <div class="timeline-node">
       <span class="timeline-dot"></span>
-      <span class="timeline-pill">May 2025 &ndash; Present</span>
+      <span class="timeline-pill">Jan &ndash; Jun 2023</span>
+    </div>
+  </div>
+
+  <div class="timeline-item is-up">
+    <div class="timeline-card">
+      <img src="{{ '/assets/img/logos/dell.png' | relative_url }}" class="org-badge badge-img" alt="Dell Technologies logo">
+      <span class="entry-title">Undergraduate Intern</span>
+      <span class="entry-org">Dell Technologies</span>
+    </div>
+    <div class="timeline-node">
+      <span class="timeline-dot"></span>
+      <span class="timeline-pill">May &ndash; Jul 2022</span>
+    </div>
+  </div>
+
+  <div class="timeline-item is-up">
+    <div class="timeline-card">
+      <img src="{{ '/assets/img/logos/icgeb.png' | relative_url }}" class="org-badge badge-img" alt="ICGEB logo">
+      <span class="entry-title">Summer Intern</span>
+      <span class="entry-org">ICGEB</span>
+    </div>
+    <div class="timeline-node">
+      <span class="timeline-dot"></span>
+      <span class="timeline-pill">May &ndash; Aug 2021</span>
     </div>
   </div>
  </div>

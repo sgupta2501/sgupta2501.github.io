@@ -30,7 +30,6 @@ description: Academic, consulting, and personal projects.
 <div class="entry">
   <div class="entry-header">
     <span class="entry-title">ESG &amp; Stakeholder Analysis: Role of Innovation in Finance</span>
-    <span class="entry-date">2024</span>
   </div>
   <p class="entry-org">Finance Dissertation · FMS Delhi</p>
   <p>A longitudinal (2015–2023) study on <strong>S&amp;P 500</strong> firms using Bloomberg data, analyzing <strong>8</strong> ESG proxies against <strong>8</strong> stakeholder groups. Rank analysis, polynomial regression, and industry-level comparison validated the hypothesis that R&amp;D-driven innovation positively moderates the relationship between ESG disclosure, performance, and stakeholder interests.</p>

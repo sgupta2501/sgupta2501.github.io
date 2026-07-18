@@ -62,29 +62,3 @@ description: Published research and dissertation work, ahead of a future PhD.
   </div>
   -->
 </div>
-
-<h2>Invited Talks</h2>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">MOOCs: Promoting International Communication</span>
-    <span class="entry-date">2019</span>
-  </div>
-  <p class="entry-org">International Communication and Community Development Conference, Okayama, Japan</p>
-  <div class="tag-row">
-    <span class="tag">Education</span>
-    <span class="tag">MOOCs</span>
-  </div>
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">Career Journey, MBA &amp; Path Forward</span>
-    <span class="entry-date">May 2026</span>
-  </div>
-  <p class="entry-org">Shiv Nadar Institution of Eminence</p>
-  <div class="tag-row">
-    <span class="tag">Career</span>
-    <span class="tag">MBA</span>
-  </div>
-</div>
