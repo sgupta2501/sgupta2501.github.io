@@ -63,6 +63,8 @@ description: Published research and dissertation work, ahead of a future PhD.
   -->
 </div>
 
+<h2>Invited Talks</h2>
+
 <div class="entry">
   <div class="entry-header">
     <span class="entry-title">MOOCs: Promoting International Communication</span>
@@ -73,10 +75,16 @@ description: Published research and dissertation work, ahead of a future PhD.
     <span class="tag">Education</span>
     <span class="tag">MOOCs</span>
   </div>
-  <!-- Optional links — uncomment and fill in once you have them:
-  <div class="paper-links">
-    <a class="paper-link" href="YOUR_GITHUB_REPO_URL" target="_blank" rel="noopener">GitHub</a>
-    <a class="paper-link" href="{{ '/assets/papers/YOUR_FILE.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Career Journey, MBA &amp; Path Forward</span>
+    <span class="entry-date">May 2026</span>
   </div>
-  -->
+  <p class="entry-org">Shiv Nadar Institution of Eminence</p>
+  <div class="tag-row">
+    <span class="tag">Career</span>
+    <span class="tag">MBA</span>
+  </div>
 </div>

@@ -11,6 +11,24 @@ description: Academic, consulting, and personal projects.
 
 <div class="entry">
   <div class="entry-header">
+    <span class="entry-title">Research Paper &amp; Patent Writer — Multi-Agent AI System</span>
+  </div>
+  <p class="entry-org">Python &middot; Ollama &middot; sentence-transformers &middot; arXiv &middot; Scopus &middot; LaTeX</p>
+  <p>A fully local multi-agent system that takes a research idea from concept to a complete academic paper or patent draft — no data leaves your machine. Two pipelines: an 8-stage research paper pipeline covering idea expansion, live literature retrieval, novelty scoring, experiment interpretation, section-by-section writing, and peer-review simulation; and an 8-stage patent pipeline producing IPO Form 2 and USPTO-compliant applications with legal claim drafting. Integrates arXiv, Google Scholar, PubMed, and Scopus with Scimago journal metadata. Human-in-the-loop review at every stage.</p>
+  <div class="tag-row">
+    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/><path d="M9 2v2M15 2v2M9 20v2M15 20v2M2 9h2M2 15h2M20 9h2M20 15h2"/></svg>AI Agents</span>
+    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M22 10v6M2 10l10-5 10 5-10 5-10-5z"/><path d="M6 12v5c0 1.66 2.69 3 6 3s6-1.34 6-3v-5"/></svg>Research</span>
+    <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>Personal</span>
+  </div>
+  <!-- Optional links — uncomment and fill in once you have them:
+  <div class="paper-links">
+    <a class="paper-link" href="YOUR_GITHUB_REPO_URL" target="_blank" rel="noopener">GitHub</a>
+  </div>
+  -->
+</div>
+
+<div class="entry">
+  <div class="entry-header">
     <span class="entry-title">ESG &amp; Stakeholder Analysis: Role of Innovation in Finance</span>
     <span class="entry-date">2024</span>
   </div>
