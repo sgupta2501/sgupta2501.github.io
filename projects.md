@@ -15,7 +15,7 @@ description: Academic, consulting, and personal projects.
     <span class="entry-date">2024</span>
   </div>
   <p class="entry-org">Finance Dissertation · Mentored by Prof. Monica Singhania · FMS Delhi</p>
-  <p>A longitudinal (2015–2023) study on **S&amp;P 500** firms using Bloomberg data, analyzing **8** ESG proxies against **8** stakeholder groups. Rank analysis, polynomial regression, and industry-level comparison validated the hypothesis that R&amp;D-driven innovation positively moderates the relationship between ESG disclosure, performance, and stakeholder interests.</p>
+  <p>A longitudinal (2015–2023) study on <strong>S&amp;P 500</strong> firms using Bloomberg data, analyzing <strong>8</strong> ESG proxies against <strong>8</strong> stakeholder groups. Rank analysis, polynomial regression, and industry-level comparison validated the hypothesis that R&amp;D-driven innovation positively moderates the relationship between ESG disclosure, performance, and stakeholder interests.</p>
   <div class="tag-row">
     <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M22 10v6M2 10l10-5 10 5-10 5-10-5z"/><path d="M6 12v5c0 1.66 2.69 3 6 3s6-1.34 6-3v-5"/></svg>Academic</span>
     <span class="tag">Finance</span>
@@ -34,7 +34,7 @@ description: Academic, consulting, and personal projects.
     <span class="entry-title">Excel Add-in Ideation</span>
   </div>
   <p class="entry-org">H.M. Consulting</p>
-  <p>Researched Excel macros and add-ins, ideating **5+** potential solutions. Proposed a whitespace-removal tool for cleaner PDF-to-Excel data extraction and documented the full user journey for implementation.</p>
+  <p>Researched Excel macros and add-ins, ideating <strong>5+</strong> potential solutions. Proposed a whitespace-removal tool for cleaner PDF-to-Excel data extraction and documented the full user journey for implementation.</p>
   <div class="tag-row">
     <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>Consulting</span>
   </div>
@@ -51,7 +51,7 @@ description: Academic, consulting, and personal projects.
     <span class="entry-title">Marketing Strategy Study</span>
   </div>
   <p class="entry-org">FMS, Delhi</p>
-  <p>Studied articles and case studies on promotional strategy in the retail electronics industry, gathering **100+** consumer responses through primary research and retailer visits to ground the analysis in first-hand insight.</p>
+  <p>Studied articles and case studies on promotional strategy in the retail electronics industry, gathering <strong>100+</strong> consumer responses through primary research and retailer visits to ground the analysis in first-hand insight.</p>
   <div class="tag-row">
     <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M22 10v6M2 10l10-5 10 5-10 5-10-5z"/><path d="M6 12v5c0 1.66 2.69 3 6 3s6-1.34 6-3v-5"/></svg>Academic</span>
   </div>
@@ -96,7 +96,7 @@ description: Academic, consulting, and personal projects.
     <span class="entry-title">SNU Resource Allocation System</span>
   </div>
   <p class="entry-org">Software Engineering, Shiv Nadar Institution of Eminence</p>
-  <p>Ran a feasibility survey to identify common facility-booking pain points across the university, then built a working proof-of-concept application over **2** months to streamline campus resource booking.</p>
+  <p>Ran a feasibility survey to identify common facility-booking pain points across the university, then built a working proof-of-concept application over <strong>2</strong> months to streamline campus resource booking.</p>
   <div class="tag-row">
     <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M22 10v6M2 10l10-5 10 5-10 5-10-5z"/><path d="M6 12v5c0 1.66 2.69 3 6 3s6-1.34 6-3v-5"/></svg>Academic</span>
     <span class="tag">Later shipped as an ERP-integrated MVP</span>

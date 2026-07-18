@@ -5,9 +5,9 @@ permalink: /education/
 description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institution of Eminence.
 ---
 
-<p class="eyebrow">Education</p>
+<p class="eyebrow">B.Tech &rarr; MBA</p>
 <h1>Education</h1>
-<p class="lede">Two degrees, one very long stretch of Dean's Lists and case competitions in between.</p>
+<p class="lede">An engineering foundation, an MBA on top, and enough case competitions in between to lose count.</p>
 
 <div class="timeline-wrap">
  <div class="timeline-track flat stretch-logos">

@@ -10,17 +10,17 @@ description: Product Manager building AI-native financial products at the inters
 <p class="hero-role">Product Manager · FMS Delhi</p>
 <p class="lede">"Product Manager building AI-native financial products at the intersection of technology, data, and real business impact."</p>
 
-I'm a Product Manager at **Hero Fincorp**, where I own a portfolio of digital financial products — from 0→1 launches to products already operating at scale. My work spans building AI agents that cut customer service TAT from 18 hours to 30 minutes, shipping a financial copilot targeting 25% retention uplift, redesigning acquisition funnels that scaled customer growth 44% MoM, and launching pilots that opened new customer segments. I work closely with engineering, data, and business teams — and care as much about how something is built as what gets built.
+I'm a Product Manager at <strong>Hero Fincorp</strong>, where I own a portfolio of digital financial products — from 0→1 launches to products already operating at scale. My work spans building AI agents that cut customer service TAT from 18 hours to 30 minutes, shipping a financial copilot targeting 25% retention uplift, redesigning acquisition funnels that scaled customer growth 44% MoM, and launching pilots that opened new customer segments. I work closely with engineering, data, and business teams — and care as much about how something is built as what gets built.
 
 I started in tech — ranking 3rd in Computer Science at Shiv Nadar University on a full scholarship — before doing my MBA at FMS Delhi in the top 10%ile. That combination shaped how I think: technically enough to go deep with engineers, commercially enough to keep the business outcome in view.
 
-Along the way I've worked at **ICGEB** building a computer vision pipeline for malaria detection validated with AIIMS clinicians, at **Dell** building an infrastructure monitoring system across 100k+ servers, at **Bain** contributing to ₹500Cr+ of strategy cases across Asia-Pacific, and at **HUL** identifying a ₹220Cr e-commerce opportunity through product discovery and 50+ consumer interviews. Each experience added a different lens — research, engineering, consulting, and consumer insights — that I carry into product work today.
+Along the way I've worked at <strong>ICGEB</strong> building a computer vision pipeline for malaria detection validated with AIIMS clinicians, at <strong>Dell</strong> building an infrastructure monitoring system across 100k+ servers, at <strong>Bain</strong> contributing to ₹500Cr+ of strategy cases across Asia-Pacific, and at <strong>HUL</strong> identifying a ₹220Cr e-commerce opportunity through product discovery and 50+ consumer interviews. Each experience added a different lens — research, engineering, consulting, and consumer insights — that I carry into product work today.
 
 I've also done work I'm proud of outside the job — presenting research at an international conference in Japan, publishing a book chapter, competing as a national finalist at Aditya Birla Group Stratos, and performing at IIM fests as a guitarist. I mentor when I can, compete when it's interesting, and try to stay genuinely curious about the ideas behind the products I build.
 
 Off the clock: badminton, guitar, fiction books, and video games.
 
-If any of this overlaps with what you're working on, reach me on [LinkedIn](https://linkedin.com/in/samarth-gupta-b932031b4), [GitHub](https://github.com/sgupta2501), or just email **sgupta2501@gmail.com**.
+If any of this overlaps with what you're working on, reach me on [LinkedIn](https://linkedin.com/in/samarth-gupta-b932031b4), [GitHub](https://github.com/sgupta2501), or just email <strong>sgupta2501@gmail.com</strong>.
 
 ## Highlights
 

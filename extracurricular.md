@@ -24,7 +24,7 @@ description: Mentorship and workshop organizing alongside academics and work.
     <span class="entry-title">ENARXI, FMS (Induction)</span>
   </div>
   <p class="entry-org">My team was the overall winner</p>
-  <p>Organized an online workshop on Introduction to Machine Learning that drew **85+** university student participants.</p>
+  <p>Organized an online workshop on Introduction to Machine Learning that drew <strong>85+</strong> university student participants.</p>
   <div class="tag-row">
     <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/><path d="M9 2v2M15 2v2M9 20v2M15 20v2M2 9h2M2 15h2M20 9h2M20 15h2"/></svg>Workshop</span>
   </div>

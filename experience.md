@@ -5,7 +5,7 @@ permalink: /experience/
 description: Product management experience at Hero Fincorp, plus internships at HUL, Bain, Dell, and ICGEB.
 ---
 
-<p class="eyebrow">Work Experience</p>
+<p class="eyebrow">Career so far</p>
 <div class="page-header-row">
   <h1>Work Experience</h1>
   <span class="duration-badge">
@@ -13,7 +13,7 @@ description: Product management experience at Hero Fincorp, plus internships at 
     <span id="experience-duration">Calculating…</span>
   </span>
 </div>
-<p class="lede">Two years and counting of shipping products, running experiments, and reading way too many funnel dashboards.</p>
+<p class="lede">Five roles, four industries, one running theme: turning ambiguous problems into things people actually use.</p>
 
 <script src="{{ '/assets/js/experience-duration.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
 

@@ -15,7 +15,7 @@ description: Academic and professional honors and recognitions.
     <span class="entry-date">2025</span>
   </div>
   <p class="entry-org">FMS, University of Delhi</p>
-  <p>Graduated with Distinction, **Top 10** percentile of the batch.</p>
+  <p>Graduated with Distinction, <strong>Top 10</strong> percentile of the batch.</p>
 </div>
 
 <div class="entry">
@@ -24,7 +24,7 @@ description: Academic and professional honors and recognitions.
     <span class="entry-date">2023</span>
   </div>
   <p class="entry-org">Bain Capability Network</p>
-  <p>Earned a Pre-Placement Offer, **1** of **20** out of **120+** interns.</p>
+  <p>Earned a Pre-Placement Offer, <strong>1</strong> of <strong>20</strong> out of <strong>120+</strong> interns.</p>
 </div>
 
 <div class="entry">
@@ -42,7 +42,7 @@ description: Academic and professional honors and recognitions.
     <span class="entry-date">2023</span>
   </div>
   <p class="entry-org">Shiv Nadar Institution of Eminence</p>
-  <p>**9.13**/10 CGPA — ranked **3rd** of **105** in Computer Science, **6th** of **254** across the School of Engineering.</p>
+  <p><strong>9.13</strong>/10 CGPA — ranked <strong>3rd</strong> of <strong>105</strong> in Computer Science, <strong>6th</strong> of <strong>254</strong> across the School of Engineering.</p>
 </div>
 
 <div class="entry">

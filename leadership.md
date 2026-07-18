@@ -22,7 +22,7 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
   </div>
   <p class="entry-org">FMS, Delhi</p>
   <ul>
-    <li>Selected (1 of **2**) by **50+** students to represent the Merchant Banking &amp; Financial Services course.</li>
+    <li>Selected (1 of <strong>2</strong>) by <strong>50+</strong> students to represent the Merchant Banking &amp; Financial Services course.</li>
     <li>Acted as the liaison between faculty, students, and administration on scheduling, attendance, and student queries.</li>
   </ul>
   <div class="tag-row"><span class="tag">Academic Council</span></div>
@@ -41,9 +41,9 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
   </div>
   <p class="entry-org">FMS, Delhi</p>
   <ul>
-    <li>Selected (1 of **3**) from a batch of **300+** students to serve as Executive Member of the design club.</li>
-    <li>Designed **7** merchandise items, curated posters for **5** annual events, and created **40+** social-media creatives for **17** FMS societies.</li>
-    <li>Delivered **100+** slides for the institute's official NAAC 2024 accreditation visit, reporting directly to the Dean.</li>
+    <li>Selected (1 of <strong>3</strong>) from a batch of <strong>300+</strong> students to serve as Executive Member of the design club.</li>
+    <li>Designed <strong>7</strong> merchandise items, curated posters for <strong>5</strong> annual events, and created <strong>40+</strong> social-media creatives for <strong>17</strong> FMS societies.</li>
+    <li>Delivered <strong>100+</strong> slides for the institute's official NAAC 2024 accreditation visit, reporting directly to the Dean.</li>
     <li>Helped drive procurement of a Canva Pro subscription for the club's design workflow.</li>
   </ul>
   <div class="tag-row"><span class="tag">Design</span></div>
@@ -62,9 +62,9 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
   </div>
   <p class="entry-org">CulSoc, FMS Delhi</p>
   <ul>
-    <li>Selected (1 of **3** out of **300+** students) to foster music culture and represent FMS in cultural competitions.</li>
+    <li>Selected (1 of <strong>3</strong> out of <strong>300+</strong> students) to foster music culture and represent FMS in cultural competitions.</li>
     <li>Managed Aarohan's Instagram presence, hosted the Octaves music series, and organized jamming sessions and event sponsorships.</li>
-    <li>Helped organize Encore and Big Band Theory, the flagship musical events of Fiesta '25, and assisted in refurbishing ₹**180,000+** worth of music-room instruments.</li>
+    <li>Helped organize Encore and Big Band Theory, the flagship musical events of Fiesta '25, and assisted in refurbishing ₹<strong>180,000+</strong> worth of music-room instruments.</li>
   </ul>
   <div class="tag-row"><span class="tag">Music &amp; Culture</span></div>
 </div>
@@ -82,10 +82,10 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
   </div>
   <p class="entry-org">FMS, Delhi</p>
   <ul>
-    <li>Selected (1 of **5**) from a batch of **300+** students to serve **600+** students across FMS.</li>
-    <li>Organized **15+** cricket and football matches in collaboration with **5+** top B-schools (IIM-L, XLRI), drawing **200+** footfall.</li>
-    <li>Designed and managed supply chain for official FMS sports merchandise — **250+** orders and a ₹**1.5 lakh** corpus.</li>
-    <li>Secured DU Sports Arena for Fiesta, drawing participation from **3+** B-schools and **50+** footfall.</li>
+    <li>Selected (1 of <strong>5</strong>) from a batch of <strong>300+</strong> students to serve <strong>600+</strong> students across FMS.</li>
+    <li>Organized <strong>15+</strong> cricket and football matches in collaboration with <strong>5+</strong> top B-schools (IIM-L, XLRI), drawing <strong>200+</strong> footfall.</li>
+    <li>Designed and managed supply chain for official FMS sports merchandise — <strong>250+</strong> orders and a ₹<strong>1.5 lakh</strong> corpus.</li>
+    <li>Secured DU Sports Arena for Fiesta, drawing participation from <strong>3+</strong> B-schools and <strong>50+</strong> footfall.</li>
   </ul>
   <div class="tag-row"><span class="tag">Sports</span></div>
 </div>
@@ -103,7 +103,7 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
   </div>
   <p class="entry-org">Shiv Nadar Institution of Eminence</p>
   <ul>
-    <li>Led a **14**-member content team for the flagship treasure-hunt event at BREEZE, the university's annual fest.</li>
+    <li>Led a <strong>14</strong>-member content team for the flagship treasure-hunt event at BREEZE, the university's annual fest.</li>
     <li>Owned confidentiality and vetting of riddles, and coordinated placement, maintenance, and QR-code logistics for the event.</li>
   </ul>
   <div class="tag-row"><span class="tag">Events</span></div>
@@ -122,7 +122,7 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
   </div>
   <p class="entry-org">Shiv Nadar Institution of Eminence</p>
   <ul>
-    <li>Mentored **500+** school students on Artificial Intelligence alongside faculty advisor Dr. Pooja Malik.</li>
+    <li>Mentored <strong>500+</strong> school students on Artificial Intelligence alongside faculty advisor Dr. Pooja Malik.</li>
   </ul>
   <div class="tag-row"><span class="tag">Mentorship</span> <span class="tag">AI</span></div>
 </div>
@@ -140,7 +140,7 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
   </div>
   <p class="entry-org">Shiv Nadar Institution of Eminence</p>
   <ul>
-    <li>Restructured a **12**-member mentor team to improve delegation, accountability, and workshop engagement.</li>
+    <li>Restructured a <strong>12</strong>-member mentor team to improve delegation, accountability, and workshop engagement.</li>
     <li>Created project opportunities for University students exploring the data science domain.</li>
   </ul>
   <div class="tag-row"><span class="tag">Data Science</span> <span class="tag">Tech Community</span></div>
