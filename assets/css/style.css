@@ -95,7 +95,7 @@ h1, h2, h3, h4 {
   border-radius: 50%;
   border: 3px solid rgba(255,255,255,0.25);
   background: var(--bg);
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .sidebar-id { min-width: 0; }
