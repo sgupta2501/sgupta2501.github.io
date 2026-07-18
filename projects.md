@@ -46,6 +46,7 @@ description: Academic, consulting, and personal projects.
   -->
 </div>
 
+<!--
 <div class="entry">
   <div class="entry-header">
     <span class="entry-title">Marketing Strategy Study</span>
@@ -56,6 +57,7 @@ description: Academic, consulting, and personal projects.
     <span class="tag"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M22 10v6M2 10l10-5 10 5-10 5-10-5z"/><path d="M6 12v5c0 1.66 2.69 3 6 3s6-1.34 6-3v-5"/></svg>Academic</span>
   </div>
 </div>
+-->
 
 <div class="entry">
   <div class="entry-header">

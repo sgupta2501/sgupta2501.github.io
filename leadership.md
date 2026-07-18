@@ -145,3 +145,24 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
   </ul>
   <div class="tag-row"><span class="tag">Data Science</span> <span class="tag">Tech Community</span></div>
 </div>
+
+<div class="entry">
+  <div class="entry-header">
+    <div class="entry-header-with-badge">
+      <span class="org-badge badge-sm">BSG</span>
+      <!-- Once you have a real logo: drop it in /assets/img/logos/bsg.png and replace
+           the line above with:
+           <img src="{{ '/assets/img/logos/bsg.png' | relative_url }}" class="org-badge badge-sm badge-img" alt="Bharat Soka Gakkai logo"> -->
+      <span class="entry-title">
+        <svg class="entry-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+        Member (currently District Chief)
+      </span>
+    </div>
+    <span class="entry-date">Since Jul 2005</span>
+  </div>
+  <p class="entry-org">Bharat Soka Gakkai (NGO) &middot; <span data-tenure-since="2005-07-18">Calculating tenure…</span></p>
+  <!-- Add <ul><li>...</li></ul> bullets here once specific responsibilities/achievements are provided. -->
+  <div class="tag-row"><span class="tag">Community Service</span></div>
+</div>
+
+<script src="{{ '/assets/js/tenure.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>

@@ -20,6 +20,15 @@ description: Academic and professional honors and recognitions.
 
 <div class="entry">
   <div class="entry-header">
+    <span class="entry-title">Winner, Bain-a-thon</span>
+    <span class="entry-date">2023</span>
+  </div>
+  <p class="entry-org">Bain Capability Network</p>
+  <p>Placed 1st among <strong>25+</strong> teams in the Bain-a-thon case competition.</p>
+</div>
+
+<div class="entry">
+  <div class="entry-header">
     <span class="entry-title">Pre-Placement Offer</span>
     <span class="entry-date">2023</span>
   </div>
