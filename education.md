@@ -65,24 +65,24 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
       <span class="entry-date">2023-2025</span>
     </div>
     <ul>
-      <li>CGPA: **7.84**/10 · **Top 10** Percentile · Distinction</li>
+      <li>CGPA: <strong>7.84</strong>/10 · <strong>Top 10</strong> Percentile · Distinction</li>
       <li>Major: Strategy &amp; Finance · Minor: Operations</li>
     </ul>
 
     <span class="case-study-label">Competitions</span>
-    <p>Finalist or winner across **12** competitions — National Finalist at Aditya Birla Group Stratos (Top **9**/**4,100+**); National Semi-Finalist at Tata Imagination Challenge (**250k+** reg.); Campus Finalist at ReNew ReLead, Xiaomi Summit, Hero Campus Challenge (Top **20**/**93k+**), and Thoucentric Bottom's Up; Winner at Marico Over The Wall Quiz; Band Finalist at IIM-L and IIM-I fests (**500+** participants); Overall Winner and Basketball 1st Runner-Up at Tin Enarxi FMS.</p>
+    <p>Finalist or winner across <strong>12</strong> competitions — National Finalist at Aditya Birla Group Stratos (Top <strong>9</strong>/<strong>4,100+</strong>); National Semi-Finalist at Tata Imagination Challenge (<strong>250k+</strong> reg.); Campus Finalist at ReNew ReLead, Xiaomi Summit, Hero Campus Challenge (Top <strong>20</strong>/<strong>93k+</strong>), and Thoucentric Bottom's Up; Winner at Marico Over The Wall Quiz; Band Finalist at IIM-L and IIM-I fests (<strong>500+</strong> participants); Overall Winner and Basketball 1st Runner-Up at Tin Enarxi FMS.</p>
 
     <span class="case-study-label">Live Project</span>
-    <p>H.M. Consulting — ideated **5+** Excel add-in solutions; proposed and developed a PDF-to-Excel whitespace-extraction solution, cutting document-processing TAT **90%**.</p>
+    <p>H.M. Consulting — ideated <strong>5+</strong> Excel add-in solutions; proposed and developed a PDF-to-Excel whitespace-extraction solution, cutting document-processing TAT <strong>90%</strong>.</p>
 
     <span class="case-study-label">Research</span>
-    <p>Finance Dissertation — **9**-year longitudinal Bloomberg ESG study on S&amp;P 500 firms across **8** proxies and **8** stakeholders; identified innovation as a key value-creation lever, validating that R&amp;D/Innovation positively moderates ESG's impact on stakeholder value.</p>
+    <p>Finance Dissertation — <strong>9</strong>-year longitudinal Bloomberg ESG study on S&amp;P 500 firms across <strong>8</strong> proxies and <strong>8</strong> stakeholders; identified innovation as a key value-creation lever, validating that R&amp;D/Innovation positively moderates ESG's impact on stakeholder value.</p>
 
     <span class="case-study-label">Certification</span>
     <p>Lean Six Sigma Green Belt — 3-day workshop conducted by KPMG &amp; FMS Delhi.</p>
 
     <span class="case-study-label">Positions of Responsibility</span>
-    <p>Led **4** concurrent roles — Associate Member of Sports Society (**15+** events, **5+** B-schools, ₹**1.5L** corpus); Executive Member of Light Art Design Club (**40+** creatives, **7** merchandise items, **100+** slides for NAAC accreditation); Member of Aarohan Music Society (Fiesta '25 flagship events); Class Representative for the MBFS course.</p>
+    <p>Led <strong>4</strong> concurrent roles — Associate Member of Sports Society (<strong>15+</strong> events, <strong>5+</strong> B-schools, ₹<strong>1.5L</strong> corpus); Executive Member of Light Art Design Club (<strong>40+</strong> creatives, <strong>7</strong> merchandise items, <strong>100+</strong> slides for NAAC accreditation); Member of Aarohan Music Society (Fiesta '25 flagship events); Class Representative for the MBFS course.</p>
 
     <span class="case-study-label">Sports</span>
     <p>Badminton Team Member, FMS Delhi; Basketball 1st Runner-Up and Overall Winner at Tin Enarxi FMS.</p>
@@ -100,24 +100,24 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
       <span class="entry-date">2019-2023</span>
     </div>
     <ul>
-      <li>CGPA: **9.13**/10 · Rank **3**/105 (CSE) · Rank **6**/254 (School of Engineering)</li>
-      <li>Dean's List (**3** semesters) · A+/A Scholarship — **100%** fee waiver across all years</li>
+      <li>CGPA: <strong>9.13</strong>/10 · Rank <strong>3</strong>/105 (CSE) · Rank <strong>6</strong>/254 (School of Engineering)</li>
+      <li>Dean's List (<strong>3</strong> semesters) · A+/A Scholarship — <strong>100%</strong> fee waiver across all years</li>
     </ul>
 
     <span class="case-study-label">Competitions &amp; Research</span>
-    <p>Campus Finalist at HCL-SNU Gaming Ideathon (Fantastic-9, Top **4**/**50+** teams); presented research at the International Communication &amp; Community Development Conference, Japan; published a book chapter (IGI Global); built a real-time cricket analytics MVP for wicket probability prediction at a university hackathon.</p>
+    <p>Campus Finalist at HCL-SNU Gaming Ideathon (Fantastic-9, Top <strong>4</strong>/<strong>50+</strong> teams); presented research at the International Communication &amp; Community Development Conference, Japan; published a book chapter (IGI Global); built a real-time cricket analytics MVP for wicket probability prediction at a university hackathon.</p>
 
     <span class="case-study-label">Positions of Responsibility</span>
-    <p>Led **3** concurrent roles — Data Science Lead at Google GDSC (restructured **12**-member mentoring team, improved workshop engagement, created project opportunities); Content Head for Annual Labyrinth at BREEZE Fest (led **14+** member team, responsible for riddles and QR non-disclosure); Mentor at Young Thinkers Masterclass (mentored **500+** school students on AI alongside Prof. Dr. Pooja Malik).</p>
+    <p>Led <strong>3</strong> concurrent roles — Data Science Lead at Google GDSC (restructured <strong>12</strong>-member mentoring team, improved workshop engagement, created project opportunities); Content Head for Annual Labyrinth at BREEZE Fest (led <strong>14+</strong> member team, responsible for riddles and QR non-disclosure); Mentor at Young Thinkers Masterclass (mentored <strong>500+</strong> school students on AI alongside Prof. Dr. Pooja Malik).</p>
 
     <span class="case-study-label">Projects</span>
-    <p>Built **5** technical projects spanning product, ML, and systems — SNU Resource Allocation MVP (↓**70%** booking TAT, ↓**40%** admin effort); Telecom Customer Churn prediction system; Evolutionary Algorithm for Community Detection in social networks; Game Development suite (Checkers, 3D Tic-Tac-Toe, Hangman); Brawlhalla Ranking Database with live API integration and leaderboard visualization.</p>
+    <p>Built <strong>5</strong> technical projects spanning product, ML, and systems — SNU Resource Allocation MVP (↓<strong>70%</strong> booking TAT, ↓<strong>40%</strong> admin effort); Telecom Customer Churn prediction system; Evolutionary Algorithm for Community Detection in social networks; Game Development suite (Checkers, 3D Tic-Tac-Toe, Hangman); Brawlhalla Ranking Database with live API integration and leaderboard visualization.</p>
 
     <span class="case-study-label">Cultural &amp; Sports</span>
     <p>Guitarist and performer at BREEZE Annual Fest (SNUphoria Music Society); organized E-sports events as member of Nexus Gaming Society; member of ACM.</p>
 
     <span class="case-study-label">Co-curricular</span>
-    <p>Organized Introduction to ML workshop (**85+** participants) and a LaTeX knowledge session for the IEEE Student Chapter, SNIoE.</p>
+    <p>Organized Introduction to ML workshop (<strong>85+</strong> participants) and a LaTeX knowledge session for the IEEE Student Chapter, SNIoE.</p>
   </div>
 
 </div>

@@ -100,25 +100,25 @@ description: Product management experience at Hero Fincorp, plus internships at 
 
     <span class="case-study-label">Funnel Re-Design &amp; Insights</span>
     <ul>
-      <li>Increased site traffic **10x** through A/B experimentation; shipped **10+** UI/UX improvements that reduced bounce rate **30%**.</li>
-      <li>Scaled customer acquisition **44%** MoM via cohort modeling and channel spend optimization, cutting CAC **20%** on a &#8377;**15** crore monthly budget.</li>
-      <li>Lifted ARPU **14%** (&#8377;1.76L &rarr; &#8377;**2L**) by shipping system-driven, pre-qualified offers to eligible customers via customer profiling.</li>
-      <li>Cut onboarding TAT **99.8%** (48 hours to 5 minutes) through pipeline re-architecture and automation, lifting conversion of high-intent customers.</li>
+      <li>Increased site traffic <strong>10x</strong> through A/B experimentation; shipped <strong>10+</strong> UI/UX improvements that reduced bounce rate <strong>30%</strong>.</li>
+      <li>Scaled customer acquisition <strong>44%</strong> MoM via cohort modeling and channel spend optimization, cutting CAC <strong>20%</strong> on a &#8377;<strong>15</strong> crore monthly budget.</li>
+      <li>Lifted ARPU <strong>14%</strong> (&#8377;1.76L &rarr; &#8377;<strong>2L</strong>) by shipping system-driven, pre-qualified offers to eligible customers via customer profiling.</li>
+      <li>Cut onboarding TAT <strong>99.8%</strong> (48 hours to 5 minutes) through pipeline re-architecture and automation, lifting conversion of high-intent customers.</li>
     </ul>
 
     <span class="case-study-label">New Product Initiatives</span>
     <ul>
-      <li>Own the 0&rarr;1 build of a D2C lending app to shift toward organic customer acquisition, opening a new target group (**+10%** user base).</li>
-      <li>Building a new secured-lending revenue stream, targeting a &#8377;**4,300** crore three-year loan-book opportunity while reducing portfolio risk.</li>
-      <li>Launched a &#8377;**20** crore pilot for an underserved segment identified via **70+** interviews and market analysis, growing customer base **30%**.</li>
-      <li>Contributed to the 0&rarr;1 launch of the Hero UPI app, driving a growth roadmap targeting **5x** active users and **12x** monthly GTV.</li>
+      <li>Own the 0&rarr;1 build of a D2C lending app to shift toward organic customer acquisition, opening a new target group (<strong>+10%</strong> user base).</li>
+      <li>Building a new secured-lending revenue stream, targeting a &#8377;<strong>4,300</strong> crore three-year loan-book opportunity while reducing portfolio risk.</li>
+      <li>Launched a &#8377;<strong>20</strong> crore pilot for an underserved segment identified via <strong>70+</strong> interviews and market analysis, growing customer base <strong>30%</strong>.</li>
+      <li>Contributed to the 0&rarr;1 launch of the Hero UPI app, driving a growth roadmap targeting <strong>5x</strong> active users and <strong>12x</strong> monthly GTV.</li>
     </ul>
 
     <span class="case-study-label">Product Automation &amp; AI Initiatives</span>
     <ul>
-      <li>Cut customer service TAT **97%** (18 hours to 30 minutes) by delivering a CRM-integrated LLM agent for automated query resolution.</li>
-      <li>Building a financial copilot targeting **+25%** customer retention and **20%** cross-sell uptake via contextual recommendations.</li>
-      <li>Targeting a **90%** cut in screening TAT for **1,000+** applications via LLM-powered recruitment agents for high-volume hiring.</li>
+      <li>Cut customer service TAT <strong>97%</strong> (18 hours to 30 minutes) by delivering a CRM-integrated LLM agent for automated query resolution.</li>
+      <li>Building a financial copilot targeting <strong>+25%</strong> customer retention and <strong>20%</strong> cross-sell uptake via contextual recommendations.</li>
+      <li>Targeting a <strong>90%</strong> cut in screening TAT for <strong>1,000+</strong> applications via LLM-powered recruitment agents for high-volume hiring.</li>
     </ul>
 
     <p class="detail-note">A narrative walkthrough of the top three initiatives is in <a href="#pm-case-studies">PM Case Studies</a> below.</p>
@@ -136,9 +136,9 @@ description: Product management experience at Hero Fincorp, plus internships at 
       <span class="entry-date">Apr &ndash; May 2024</span>
     </div>
     <ul>
-      <li>Mapped beauty e-commerce across Purplle, Myntra, and Nykaa, uncovering a &#8377;**220** crore portfolio growth opportunity.</li>
-      <li>Analyzed the shopper journey across **75M** monthly visits, surfacing a **2x** conversion opportunity via category-page optimization.</li>
-      <li>Identified a &#8377;**60** crore profit pool from **50+** consumer interviews across **3** cities.</li>
+      <li>Mapped beauty e-commerce across Purplle, Myntra, and Nykaa, uncovering a &#8377;<strong>220</strong> crore portfolio growth opportunity.</li>
+      <li>Analyzed the shopper journey across <strong>75M</strong> monthly visits, surfacing a <strong>2x</strong> conversion opportunity via category-page optimization.</li>
+      <li>Identified a &#8377;<strong>60</strong> crore profit pool from <strong>50+</strong> consumer interviews across <strong>3</strong> cities.</li>
     </ul>
   </div>
 
@@ -154,10 +154,10 @@ description: Product management experience at Hero Fincorp, plus internships at 
       <span class="entry-date">Jan &ndash; Jun 2023</span>
     </div>
     <ul>
-      <li>Contributed to a &#8377;**500+** crore portfolio across **13** strategy cases, mining insights across Asia-Pacific.</li>
-      <li>Benchmarked **6** healthcare cases using CAGR and market-size analysis across **10** global geographies.</li>
-      <li>Cut MIS reporting TAT **98%** (24 hours to 30 minutes) via process automation.</li>
-      <li>Won the Bain-a-thon (1 of **4** finalists from **25+** teams); earned a Pre-Placement Offer, **1** of **20** out of **120+** interns.</li>
+      <li>Contributed to a &#8377;<strong>500+</strong> crore portfolio across <strong>13</strong> strategy cases, mining insights across Asia-Pacific.</li>
+      <li>Benchmarked <strong>6</strong> healthcare cases using CAGR and market-size analysis across <strong>10</strong> global geographies.</li>
+      <li>Cut MIS reporting TAT <strong>98%</strong> (24 hours to 30 minutes) via process automation.</li>
+      <li>Won the Bain-a-thon (1 of <strong>4</strong> finalists from <strong>25+</strong> teams); earned a Pre-Placement Offer, <strong>1</strong> of <strong>20</strong> out of <strong>120+</strong> interns.</li>
     </ul>
   </div>
 
@@ -173,9 +173,9 @@ description: Product management experience at Hero Fincorp, plus internships at 
       <span class="entry-date">May &ndash; Jul 2022</span>
     </div>
     <ul>
-      <li>Built a centralized database-monitoring dashboard covering **100,000+** servers across **4** data sources.</li>
-      <li>Collaborated across **5** cross-functional teams to reconcile SQL/NoSQL schemas.</li>
-      <li>Cut operational costs **10%** via criticality-based visibility into non-responsive nodes; earned a Pre-Placement Offer.</li>
+      <li>Built a centralized database-monitoring dashboard covering <strong>100,000+</strong> servers across <strong>4</strong> data sources.</li>
+      <li>Collaborated across <strong>5</strong> cross-functional teams to reconcile SQL/NoSQL schemas.</li>
+      <li>Cut operational costs <strong>10%</strong> via criticality-based visibility into non-responsive nodes; earned a Pre-Placement Offer.</li>
     </ul>
   </div>
 
@@ -192,7 +192,7 @@ description: Product management experience at Hero Fincorp, plus internships at 
     </div>
     <ul>
       <li>Built a computer-vision object-detection framework to identify malaria parasites in blood smears, with AIIMS Delhi.</li>
-      <li>Trained and validated on **500+** real and synthetic images using YOLO and bounding-box annotation on Colab/GPU.</li>
+      <li>Trained and validated on <strong>500+</strong> real and synthetic images using YOLO and bounding-box annotation on Colab/GPU.</li>
     </ul>
   </div>
 
@@ -211,15 +211,15 @@ description: Product management experience at Hero Fincorp, plus internships at 
   <div class="case-study-grid">
     <div>
       <span class="case-study-label">Problem</span>
-      <p>High bounce and drop-off across the acquisition funnel, with acquisition spend scaling faster than quality — CAC was climbing on a &#8377;**15** crore monthly budget.</p>
+      <p>High bounce and drop-off across the acquisition funnel, with acquisition spend scaling faster than quality — CAC was climbing on a &#8377;<strong>15</strong> crore monthly budget.</p>
     </div>
     <div>
       <span class="case-study-label">Approach</span>
-      <p>Ran structured A/B experimentation across **10+** UI/UX changes, layered in cohort modeling for channel spend optimization, and re-architected the onboarding pipeline end-to-end.</p>
+      <p>Ran structured A/B experimentation across <strong>10+</strong> UI/UX changes, layered in cohort modeling for channel spend optimization, and re-architected the onboarding pipeline end-to-end.</p>
     </div>
     <div>
       <span class="case-study-label">Impact</span>
-      <p>**10x** traffic growth, **30%** lower bounce rate, **20%** lower CAC, **44%** MoM acquisition growth, and onboarding TAT cut **99.8%** (48 hours to 5 minutes).</p>
+      <p><strong>10x</strong> traffic growth, <strong>30%</strong> lower bounce rate, <strong>20%</strong> lower CAC, <strong>44%</strong> MoM acquisition growth, and onboarding TAT cut <strong>99.8%</strong> (48 hours to 5 minutes).</p>
     </div>
   </div>
 </div>
@@ -238,11 +238,11 @@ description: Product management experience at Hero Fincorp, plus internships at 
     </div>
     <div>
       <span class="case-study-label">Approach</span>
-      <p>Owned the 0&rarr;1 build of a D2C lending app, ran **70+** customer interviews to size and validate an underserved segment, and contributed to the 0&rarr;1 launch of the Hero UPI app.</p>
+      <p>Owned the 0&rarr;1 build of a D2C lending app, ran <strong>70+</strong> customer interviews to size and validate an underserved segment, and contributed to the 0&rarr;1 launch of the Hero UPI app.</p>
     </div>
     <div>
       <span class="case-study-label">Impact</span>
-      <p>&#8377;**20** crore pilot launched (customer base **+30%**), a new secured-lending line against a &#8377;**4,300** crore three-year opportunity, and a UPI app targeting **5x** active users.</p>
+      <p>&#8377;<strong>20</strong> crore pilot launched (customer base <strong>+30%</strong>), a new secured-lending line against a &#8377;<strong>4,300</strong> crore three-year opportunity, and a UPI app targeting <strong>5x</strong> active users.</p>
     </div>
   </div>
 </div>
@@ -257,7 +257,7 @@ description: Product management experience at Hero Fincorp, plus internships at 
   <div class="case-study-grid">
     <div>
       <span class="case-study-label">Problem</span>
-      <p>Manual query resolution and screening were slow — **18** hour service TAT and heavy recruiter load across **1,000+** applications.</p>
+      <p>Manual query resolution and screening were slow — <strong>18</strong> hour service TAT and heavy recruiter load across <strong>1,000+</strong> applications.</p>
     </div>
     <div>
       <span class="case-study-label">Approach</span>
@@ -265,7 +265,7 @@ description: Product management experience at Hero Fincorp, plus internships at 
     </div>
     <div>
       <span class="case-study-label">Impact</span>
-      <p>Service TAT cut **97%** (18 hours to 30 minutes), screening time targeted to fall **90%**, and a copilot in progress targeting **+25%** retention.</p>
+      <p>Service TAT cut <strong>97%</strong> (18 hours to 30 minutes), screening time targeted to fall <strong>90%</strong>, and a copilot in progress targeting <strong>+25%</strong> retention.</p>
     </div>
   </div>
 </div>
