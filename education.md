@@ -14,13 +14,13 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
 
   <div class="timeline-item is-up">
     <div class="timeline-card">
-      <img src="{{ '/assets/img/logos/fms.png' | relative_url }}" class="org-badge badge-img" alt="FMS Delhi logo">
-      <span class="entry-title">Master of Business Administration</span>
-      <span class="entry-org">FMS, University of Delhi</span>
+      <img src="{{ '/assets/img/logos/spv.png' | relative_url }}" class="org-badge badge-img" alt="Sardar Patel Vidyalaya logo">
+      <span class="entry-title">Class XII, CBSE</span>
+      <span class="entry-org">Sardar Patel Vidyalaya</span>
     </div>
     <div class="timeline-node">
       <span class="timeline-dot"></span>
-      <span class="timeline-pill">2023-2025</span>
+      <span class="timeline-pill">2018-2019</span>
     </div>
   </div>
 
@@ -35,10 +35,23 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
       <span class="timeline-pill">2019-2023</span>
     </div>
   </div>
+
+  <div class="timeline-item is-up">
+    <div class="timeline-card">
+      <img src="{{ '/assets/img/logos/fms.png' | relative_url }}" class="org-badge badge-img" alt="FMS Delhi logo">
+      <span class="entry-title">Master of Business Administration</span>
+      <span class="entry-org">FMS, University of Delhi</span>
+    </div>
+    <div class="timeline-node">
+      <span class="timeline-dot"></span>
+      <span class="timeline-pill">2023-2025</span>
+    </div>
+  </div>
  </div>
 </div>
 
 <div class="detail-list">
+
 
   <div class="entry">
     <div class="entry-header">
@@ -87,10 +100,24 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
       <span class="entry-date">2019-2023</span>
     </div>
     <ul>
-      <li>**9.13**/10 CGPA — ranked **3rd** of **105** in Computer Science, **6th** of **254** across the School of Engineering.</li>
-      <li>**100%** merit scholarship for all four years; Dean's List across Spring, Monsoon, and Spring semesters.</li>
-      <li>Campus Finalist, HCL–SNU Gaming Ideathon.</li>
+      <li>CGPA: **9.13**/10 · Rank **3**/105 (CSE) · Rank **6**/254 (School of Engineering)</li>
+      <li>Dean's List (**3** semesters) · A+/A Scholarship — **100%** fee waiver across all years</li>
     </ul>
+
+    <span class="case-study-label">Competitions &amp; Research</span>
+    <p>Campus Finalist at HCL-SNU Gaming Ideathon (Fantastic-9, Top **4**/**50+** teams); presented research at the International Communication &amp; Community Development Conference, Japan; published a book chapter (IGI Global); built a real-time cricket analytics MVP for wicket probability prediction at a university hackathon.</p>
+
+    <span class="case-study-label">Positions of Responsibility</span>
+    <p>Led **3** concurrent roles — Data Science Lead at Google GDSC (restructured **12**-member mentoring team, improved workshop engagement, created project opportunities); Content Head for Annual Labyrinth at BREEZE Fest (led **14+** member team, responsible for riddles and QR non-disclosure); Mentor at Young Thinkers Masterclass (mentored **500+** school students on AI alongside Prof. Dr. Pooja Malik).</p>
+
+    <span class="case-study-label">Projects</span>
+    <p>Built **5** technical projects spanning product, ML, and systems — SNU Resource Allocation MVP (↓**70%** booking TAT, ↓**40%** admin effort); Telecom Customer Churn prediction system; Evolutionary Algorithm for Community Detection in social networks; Game Development suite (Checkers, 3D Tic-Tac-Toe, Hangman); Brawlhalla Ranking Database with live API integration and leaderboard visualization.</p>
+
+    <span class="case-study-label">Cultural &amp; Sports</span>
+    <p>Guitarist and performer at BREEZE Annual Fest (SNUphoria Music Society); organized E-sports events as member of Nexus Gaming Society; member of ACM.</p>
+
+    <span class="case-study-label">Co-curricular</span>
+    <p>Organized Introduction to ML workshop (**85+** participants) and a LaTeX knowledge session for the IEEE Student Chapter, SNIoE.</p>
   </div>
 
 </div>
