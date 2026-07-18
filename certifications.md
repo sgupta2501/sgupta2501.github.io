@@ -2,12 +2,114 @@
 layout: default
 title: Skills & Certifications
 permalink: /certifications/
-description: Product, analytics, and AI/tooling skills, plus recent certifications.
+description: Recent certifications, plus product, analytics, and AI/tooling skills.
 ---
 
 <p class="eyebrow">Skills &amp; Certifications</p>
 <h1>Skills &amp; Certifications</h1>
-<p class="lede">What I work with day to day, and what I've been formalizing lately.</p>
+<p class="lede">What I've been formalizing lately, and what I work with day to day.</p>
+
+<h2>Recent Certifications</h2>
+<p class="lede" style="margin-bottom:1.5rem;">Credential links are placeholders — add yours in the comment below each entry when you have them.</p>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Building Customized LLMs with OpenAI</span>
+  </div>
+  <p class="entry-org">Columbia University</p>
+  <p class="detail-note">Credential ID 183437221</p>
+  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Prompt Engineering &amp; Programming with OpenAI</span>
+  </div>
+  <p class="entry-org">Columbia University</p>
+  <p class="detail-note">Credential ID 183435682</p>
+  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Generative AI in Action</span>
+  </div>
+  <p class="entry-org">IBM</p>
+  <p>IBM SkillsBuild Learning Journey: Generative AI in Action</p>
+  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Student Ambassador Program</span>
+  </div>
+  <p class="entry-org">IBM SkillsBuild</p>
+  <p class="detail-note">Credential ID MD-395</p>
+  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Agents Course</span>
+  </div>
+  <p class="entry-org">Hugging Face</p>
+  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">AI for Product Managers</span>
+  </div>
+  <p class="entry-org">Alison</p>
+  <p class="detail-note">Credential ID 6727-52276047</p>
+  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Generative AI Overview for Project Managers</span>
+  </div>
+  <p class="entry-org">Credly by Pearson</p>
+  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">NET + JRF in Management</span>
+  </div>
+  <p class="entry-org">University Grants Commission (UGC)</p>
+  <p>99.98 percentile</p>
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Lean Six Sigma Green Belt</span>
+  </div>
+  <p class="entry-org">KPMG</p>
+  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Strategy Consulting Virtual Experience Program</span>
+  </div>
+  <p class="entry-org">Boston Consulting Group (BCG)</p>
+  <p class="detail-note">Credential ID 1687333385336</p>
+  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
+</div>
+
+<div class="entry">
+  <div class="entry-header">
+    <span class="entry-title">Accounting Fundamentals</span>
+  </div>
+  <p class="entry-org">Corporate Finance Institute&reg; (CFI)</p>
+  <p class="detail-note">Credential ID 75777504</p>
+  <div class="tag-row">
+    <span class="tag">Cash Flows</span>
+    <span class="tag">Balance Sheets</span>
+  </div>
+  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
+</div>
 
 <h2>Skills</h2>
 
@@ -76,116 +178,4 @@ description: Product, analytics, and AI/tooling skills, plus recent certificatio
     <span class="tag">Fiction Books</span>
     <span class="tag">Video Games</span>
   </div>
-</div>
-
-<h2>Recent Certifications</h2>
-<p class="lede" style="margin-bottom:1.5rem;">Credential links are placeholders — add yours in the comment below each entry when you have them.</p>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">Building Customized LLMs with OpenAI</span>
-    <span class="entry-date">May 2026</span>
-  </div>
-  <p class="entry-org">Columbia University</p>
-  <p class="detail-note">Credential ID 183437221</p>
-  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">Prompt Engineering &amp; Programming with OpenAI</span>
-    <span class="entry-date">May 2026</span>
-  </div>
-  <p class="entry-org">Columbia University</p>
-  <p class="detail-note">Credential ID 183435682</p>
-  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">Generative AI in Action</span>
-    <span class="entry-date">Aug 2025</span>
-  </div>
-  <p class="entry-org">IBM</p>
-  <p>IBM SkillsBuild Learning Journey: Generative AI in Action</p>
-  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">Student Ambassador Program</span>
-    <span class="entry-date">Aug 2025</span>
-  </div>
-  <p class="entry-org">IBM SkillsBuild</p>
-  <p class="detail-note">Credential ID MD-395</p>
-  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">Agents Course</span>
-    <span class="entry-date">Mar 2026</span>
-  </div>
-  <p class="entry-org">Hugging Face</p>
-  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">AI for Product Managers</span>
-    <span class="entry-date">Aug 2025</span>
-  </div>
-  <p class="entry-org">Alison</p>
-  <p class="detail-note">Credential ID 6727-52276047</p>
-  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">Generative AI Overview for Project Managers</span>
-    <span class="entry-date">Aug 2025</span>
-  </div>
-  <p class="entry-org">Credly by Pearson</p>
-  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">NET + JRF in Management</span>
-  </div>
-  <p class="entry-org">University Grants Commission (UGC)</p>
-  <p>99.98 percentile</p>
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">Lean Six Sigma Green Belt</span>
-    <span class="entry-date">Aug 2024</span>
-  </div>
-  <p class="entry-org">KPMG</p>
-  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">Strategy Consulting Virtual Experience Program</span>
-    <span class="entry-date">Jun 2023</span>
-  </div>
-  <p class="entry-org">Boston Consulting Group (BCG)</p>
-  <p class="detail-note">Credential ID 1687333385336</p>
-  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
-</div>
-
-<div class="entry">
-  <div class="entry-header">
-    <span class="entry-title">Accounting Fundamentals</span>
-    <span class="entry-date">Jun 2023</span>
-  </div>
-  <p class="entry-org">Corporate Finance Institute&reg; (CFI)</p>
-  <p class="detail-note">Credential ID 75777504</p>
-  <div class="tag-row">
-    <span class="tag">Cash Flows</span>
-    <span class="tag">Balance Sheets</span>
-  </div>
-  <!-- <div class="paper-links"><a class="paper-link" href="YOUR_CREDENTIAL_URL" target="_blank" rel="noopener">View credential</a></div> -->
 </div>

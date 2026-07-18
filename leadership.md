@@ -9,6 +9,8 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
 <h1>Leadership</h1>
 <p class="lede">Roles that had less to do with a resume line and more to do with actually running something.</p>
 
+<h2>FMS</h2>
+
 <div class="entry">
   <div class="entry-header">
     <div class="entry-header-with-badge">
@@ -86,32 +88,7 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
   <div class="tag-row"><span class="tag">Sports</span></div>
 </div>
 
-<div class="entry">
-  <div class="entry-header">
-    <div class="entry-header-with-badge">
-      <img src="{{ '/assets/img/logos/bsg.png' | relative_url }}" class="org-badge badge-sm badge-img" alt="Bharat Soka Gakkai logo">
-      <span class="entry-title">
-        <svg class="entry-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
-        District Chief
-      </span>
-    </div>
-  </div>
-  <p class="entry-org">Bharat Soka Gakkai (BSG) &middot; Member for <span data-tenure-since="2005-07-18">Calculating tenure…</span></p>
-
-  <p>Bharat Soka Gakkai (BSG) is the Indian affiliate of Soka Gakkai International (SGI), a global grassroots organization with <strong>12 million</strong> members across <strong>192</strong> countries, dedicated to promoting the values of happiness and respect for all through activities under the pillars of peace, culture, education, and sustainability. At the heart of everything BSG does is encouraging individuals to lead lives for the betterment of society — "Soka" itself meaning "value creation."</p>
-
-  <p>I joined BSG in secondary school — a commitment I have carried across school, university, and now my professional life for nearly two decades. Over this journey I have progressed through three levels of BSG's study examinations — Entrance, Introductory, and Intermediate — reflecting a deepening engagement with the philosophy and practice, not just membership.</p>
-
-  <span class="case-study-label">Leadership Progression</span>
-  <p>My leadership journey within BSG spans almost a decade. It began with being groomed as part of the first Hosu-Kai leadership batch — a foundational experience that shaped how I think about mentorship, responsibility, and community building. From there I served as Block Chief before taking on my current role as District Chief, responsible for guiding and supporting members across my district community.</p>
-
-  <span class="case-study-label">Culture &amp; Music</span>
-  <p>Alongside the leadership track, I have contributed to BSG's cultural mission through national-level performances and as a musician with the New Age Symphony group — a role I have held since the group's inauguration. Music, for me, has always been inseparable from the broader BSG spirit of using culture as a vehicle for human connection and positive change.</p>
-
-  <p class="detail-note">BSG is the organization where I first understood what consistent, long-term commitment to something larger than yourself actually feels like — and that has quietly shaped how I approach leadership everywhere else.</p>
-
-  <div class="tag-row"><span class="tag">Community Service</span> <span class="tag">Leadership</span> <span class="tag">Music</span></div>
-</div>
+<h2>SNU</h2>
 
 <div class="entry">
   <div class="entry-header">
@@ -164,6 +141,35 @@ description: Positions of responsibility across FMS Delhi and Shiv Nadar Institu
     <li>Mentored <strong>500+</strong> school students on Artificial Intelligence alongside faculty advisor Dr. Pooja Malik.</li>
   </ul>
   <div class="tag-row"><span class="tag">Mentorship</span> <span class="tag">AI</span></div>
+</div>
+
+<h2>Community</h2>
+
+<div class="entry">
+  <div class="entry-header">
+    <div class="entry-header-with-badge">
+      <img src="{{ '/assets/img/logos/bsg.png' | relative_url }}" class="org-badge badge-sm badge-img" alt="Bharat Soka Gakkai logo">
+      <span class="entry-title">
+        <svg class="entry-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+        District Chief
+      </span>
+    </div>
+  </div>
+  <p class="entry-org">Bharat Soka Gakkai (BSG) &middot; Member for <span data-tenure-since="2005-07-18">Calculating tenure…</span></p>
+
+  <p>Bharat Soka Gakkai (BSG) is the Indian affiliate of Soka Gakkai International (SGI), a global grassroots organization with <strong>12 million</strong> members across <strong>192</strong> countries, dedicated to promoting the values of happiness and respect for all through activities under the pillars of peace, culture, education, and sustainability. At the heart of everything BSG does is encouraging individuals to lead lives for the betterment of society — "Soka" itself meaning "value creation."</p>
+
+  <p>I joined BSG in secondary school — a commitment I have carried across school, university, and now my professional life for nearly two decades. Over this journey I have progressed through three levels of BSG's study examinations — Entrance, Introductory, and Intermediate — reflecting a deepening engagement with the philosophy and practice, not just membership.</p>
+
+  <span class="case-study-label">Leadership Progression</span>
+  <p>My leadership journey within BSG spans almost a decade. It began with being groomed as part of the first Hosu-Kai leadership batch — a foundational experience that shaped how I think about mentorship, responsibility, and community building. From there I served as Block Chief before taking on my current role as District Chief, responsible for guiding and supporting members across my district community.</p>
+
+  <span class="case-study-label">Culture &amp; Music</span>
+  <p>Alongside the leadership track, I have contributed to BSG's cultural mission through national-level performances and as a musician with the New Age Symphony group — a role I have held since the group's inauguration. Music, for me, has always been inseparable from the broader BSG spirit of using culture as a vehicle for human connection and positive change.</p>
+
+  <p class="detail-note">BSG is the organization where I first understood what consistent, long-term commitment to something larger than yourself actually feels like — and that has quietly shaped how I approach leadership everywhere else.</p>
+
+  <div class="tag-row"><span class="tag">Community Service</span> <span class="tag">Leadership</span> <span class="tag">Music</span></div>
 </div>
 
 <script src="{{ '/assets/js/tenure.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
