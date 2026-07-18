@@ -89,35 +89,56 @@ description: Product management experience at Hero Fincorp, plus internships at 
   <div class="entry">
     <div class="entry-header">
       <div class="entry-header-with-badge">
-        <img src="{{ '/assets/img/logos/icgeb.png' | relative_url }}" class="org-badge badge-img" alt="ICGEB logo">
+        <img src="{{ '/assets/img/logos/hero-fincorp.png' | relative_url }}" class="org-badge badge-img" alt="Hero Fincorp logo">
         <div>
-          <span class="entry-title">Summer Intern</span>
-          <span class="entry-org">ICGEB</span>
+          <span class="entry-title">Product Manager</span>
+          <span class="entry-org">Hero Fincorp &middot; New Delhi</span>
         </div>
       </div>
-      <span class="entry-date">May &ndash; Aug 2021</span>
+      <span class="entry-date">May 2025 &ndash; Present</span>
     </div>
+
+    <span class="case-study-label">Funnel Re-Design &amp; Insights</span>
     <ul>
-      <li>Built a computer-vision object-detection framework to identify malaria parasites in blood smears, with AIIMS Delhi.</li>
-      <li>Trained and validated on **500+** real and synthetic images using YOLO and bounding-box annotation on Colab/GPU.</li>
+      <li>Increased site traffic **10x** through A/B experimentation; shipped **10+** UI/UX improvements that reduced bounce rate **30%**.</li>
+      <li>Scaled customer acquisition **44%** MoM via cohort modeling and channel spend optimization, cutting CAC **20%** on a &#8377;**15** crore monthly budget.</li>
+      <li>Lifted ARPU **14%** (&#8377;1.76L &rarr; &#8377;**2L**) by shipping system-driven, pre-qualified offers to eligible customers via customer profiling.</li>
+      <li>Cut onboarding TAT **99.8%** (48 hours to 5 minutes) through pipeline re-architecture and automation, lifting conversion of high-intent customers.</li>
     </ul>
+
+    <span class="case-study-label">New Product Initiatives</span>
+    <ul>
+      <li>Own the 0&rarr;1 build of a D2C lending app to shift toward organic customer acquisition, opening a new target group (**+10%** user base).</li>
+      <li>Building a new secured-lending revenue stream, targeting a &#8377;**4,300** crore three-year loan-book opportunity while reducing portfolio risk.</li>
+      <li>Launched a &#8377;**20** crore pilot for an underserved segment identified via **70+** interviews and market analysis, growing customer base **30%**.</li>
+      <li>Contributed to the 0&rarr;1 launch of the Hero UPI app, driving a growth roadmap targeting **5x** active users and **12x** monthly GTV.</li>
+    </ul>
+
+    <span class="case-study-label">Product Automation &amp; AI Initiatives</span>
+    <ul>
+      <li>Cut customer service TAT **97%** (18 hours to 30 minutes) by delivering a CRM-integrated LLM agent for automated query resolution.</li>
+      <li>Building a financial copilot targeting **+25%** customer retention and **20%** cross-sell uptake via contextual recommendations.</li>
+      <li>Targeting a **90%** cut in screening TAT for **1,000+** applications via LLM-powered recruitment agents for high-volume hiring.</li>
+    </ul>
+
+    <p class="detail-note">A narrative walkthrough of the top three initiatives is in <a href="#pm-case-studies">PM Case Studies</a> below.</p>
   </div>
 
   <div class="entry">
     <div class="entry-header">
       <div class="entry-header-with-badge">
-        <img src="{{ '/assets/img/logos/dell.png' | relative_url }}" class="org-badge badge-img" alt="Dell Technologies logo">
+        <img src="{{ '/assets/img/logos/hul.png' | relative_url }}" class="org-badge badge-img" alt="Hindustan Unilever logo">
         <div>
-          <span class="entry-title">Undergraduate Intern</span>
-          <span class="entry-org">Dell Technologies</span>
+          <span class="entry-title">Digicommerce Intern</span>
+          <span class="entry-org">Hindustan Unilever Limited</span>
         </div>
       </div>
-      <span class="entry-date">May &ndash; Jul 2022</span>
+      <span class="entry-date">Apr &ndash; May 2024</span>
     </div>
     <ul>
-      <li>Built a centralized database-monitoring dashboard covering **100,000+** servers across **4** data sources.</li>
-      <li>Collaborated across **5** cross-functional teams to reconcile SQL/NoSQL schemas.</li>
-      <li>Cut operational costs **10%** via criticality-based visibility into non-responsive nodes; earned a Pre-Placement Offer.</li>
+      <li>Mapped beauty e-commerce across Purplle, Myntra, and Nykaa, uncovering a &#8377;**220** crore portfolio growth opportunity.</li>
+      <li>Analyzed the shopper journey across **75M** monthly visits, surfacing a **2x** conversion opportunity via category-page optimization.</li>
+      <li>Identified a &#8377;**60** crore profit pool from **50+** consumer interviews across **3** cities.</li>
     </ul>
   </div>
 
@@ -143,39 +164,36 @@ description: Product management experience at Hero Fincorp, plus internships at 
   <div class="entry">
     <div class="entry-header">
       <div class="entry-header-with-badge">
-        <img src="{{ '/assets/img/logos/hul.png' | relative_url }}" class="org-badge badge-img" alt="Hindustan Unilever logo">
+        <img src="{{ '/assets/img/logos/dell.png' | relative_url }}" class="org-badge badge-img" alt="Dell Technologies logo">
         <div>
-          <span class="entry-title">Digicommerce Intern</span>
-          <span class="entry-org">Hindustan Unilever Limited</span>
+          <span class="entry-title">Undergraduate Intern</span>
+          <span class="entry-org">Dell Technologies</span>
         </div>
       </div>
-      <span class="entry-date">Apr &ndash; May 2024</span>
+      <span class="entry-date">May &ndash; Jul 2022</span>
     </div>
     <ul>
-      <li>Mapped beauty e-commerce across Purplle, Myntra, and Nykaa, uncovering a &#8377;**220** crore portfolio growth opportunity.</li>
-      <li>Analyzed the shopper journey across **75M** monthly visits, surfacing a **2x** conversion opportunity via category-page optimization.</li>
-      <li>Identified a &#8377;**60** crore profit pool from **50+** consumer interviews across **3** cities.</li>
+      <li>Built a centralized database-monitoring dashboard covering **100,000+** servers across **4** data sources.</li>
+      <li>Collaborated across **5** cross-functional teams to reconcile SQL/NoSQL schemas.</li>
+      <li>Cut operational costs **10%** via criticality-based visibility into non-responsive nodes; earned a Pre-Placement Offer.</li>
     </ul>
   </div>
 
   <div class="entry">
     <div class="entry-header">
       <div class="entry-header-with-badge">
-        <img src="{{ '/assets/img/logos/hero-fincorp.png' | relative_url }}" class="org-badge badge-img" alt="Hero Fincorp logo">
+        <img src="{{ '/assets/img/logos/icgeb.png' | relative_url }}" class="org-badge badge-img" alt="ICGEB logo">
         <div>
-          <span class="entry-title">Product Manager</span>
-          <span class="entry-org">Hero Fincorp &middot; New Delhi</span>
+          <span class="entry-title">Summer Intern</span>
+          <span class="entry-org">ICGEB</span>
         </div>
       </div>
-      <span class="entry-date">May 2025 &ndash; Present</span>
+      <span class="entry-date">May &ndash; Aug 2021</span>
     </div>
     <ul>
-      <li>Increased site traffic **10x** through structured A/B experimentation; shipped **10+** UI/UX improvements that cut bounce rate **30%**.</li>
-      <li>Scaled acquisition **44%** MoM via cohort modeling and channel spend optimization, reducing CAC **20%** on a &#8377;**15** crore monthly budget.</li>
-      <li>Delivered a CRM-integrated LLM agent for query resolution, cutting service TAT from 18 hours to 30 minutes (**97%**).</li>
-      <li>Own the 0&rarr;1 build of a D2C lending app aimed at organic acquisition, targeting **10%** growth in the user base.</li>
+      <li>Built a computer-vision object-detection framework to identify malaria parasites in blood smears, with AIIMS Delhi.</li>
+      <li>Trained and validated on **500+** real and synthetic images using YOLO and bounding-box annotation on Colab/GPU.</li>
     </ul>
-    <p class="detail-note">Deeper write-ups on three of these initiatives are in <a href="#pm-case-studies">PM Case Studies</a> below.</p>
   </div>
 
 </div>

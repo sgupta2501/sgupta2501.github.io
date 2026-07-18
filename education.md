@@ -70,13 +70,13 @@ description: MBA at FMS Delhi and B.Tech Computer Science at Shiv Nadar Institut
     </ul>
 
     <span class="case-study-label">Competitions</span>
-    <p>Finalist or winner across **12** competitions — National Finalist at Aditya Birla Group Stratos (Top **9**/**4,100+**); National Semi-Finalist at Tata Imagination Challenge (**250k+** reg.); Campus Finalist at ReNew ReLead, Xiaomi Summit, Hero Campus Challenge (Top **20**/**93k+**), and Thoucentric Bottom's Up; Winner at Marico Over The Wall Quiz; Band Finalist at IIM-L and IIM-I fests; Overall Winner and Basketball 1st Runner-Up at Tin Enarxi FMS.</p>
+    <p>Finalist or winner across **12** competitions — National Finalist at Aditya Birla Group Stratos (Top **9**/**4,100+**); National Semi-Finalist at Tata Imagination Challenge (**250k+** reg.); Campus Finalist at ReNew ReLead, Xiaomi Summit, Hero Campus Challenge (Top **20**/**93k+**), and Thoucentric Bottom's Up; Winner at Marico Over The Wall Quiz; Band Finalist at IIM-L and IIM-I fests (**500+** participants); Overall Winner and Basketball 1st Runner-Up at Tin Enarxi FMS.</p>
 
     <span class="case-study-label">Live Project</span>
-    <p>H.M. Consulting — ideated **5+** Excel add-in solutions; proposed and documented a detailed user journey for a PDF-to-Excel whitespace extraction tool.</p>
+    <p>H.M. Consulting — ideated **5+** Excel add-in solutions; proposed and developed a PDF-to-Excel whitespace-extraction solution, cutting document-processing TAT **90%**.</p>
 
     <span class="case-study-label">Research</span>
-    <p>Finance Dissertation — longitudinal Bloomberg ESG study on S&amp;P 500 firms across **8** proxies and **8** stakeholders; validated that R&amp;D/Innovation positively moderates ESG's impact on stakeholder value.</p>
+    <p>Finance Dissertation — **9**-year longitudinal Bloomberg ESG study on S&amp;P 500 firms across **8** proxies and **8** stakeholders; identified innovation as a key value-creation lever, validating that R&amp;D/Innovation positively moderates ESG's impact on stakeholder value.</p>
 
     <span class="case-study-label">Certification</span>
     <p>Lean Six Sigma Green Belt — 3-day workshop conducted by KPMG &amp; FMS Delhi.</p>
